@@ -1,26 +1,38 @@
 {
   "permissions": {
     "allow": [
-      "src/**",
+      "src/**/*.rs",
       "Cargo.toml",
+      "cargo check",
+      "cargo test",
+      "cargo clippy",
+      "cargo build",
       "CLAUDE.md",
       "README.md"
     ],
     "ask": [
-      "assets/**",
+      "cargo run",
+      "cargo update",
       "Cargo.lock",
+      "assets/**",
       "JOUER.cmd",
       ".gitattributes",
       ".gitignore"
     ],
     "deny": [
       ".git/**",
+      "target/**",
       "VOXEL.exe",
       "assets/maps/city.bin",
-      "saves/**",
-      "target/**"
+      "saves/**"
     ]
   },
   "rust-analyzer.check.command": "clippy",
-  "editor.formatOnSave": true
+  "rust-analyzer.check.allTargets": true,
+  "rust-analyzer.cargo.allFeatures": true,
+  "editor.formatOnSave": true,
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true
+  }
 }
