@@ -1,11 +1,26 @@
 {
-  "rust-analyzer.check.command": "clippy",
-  "editor.formatOnSave": true,
-  "files.exclude": {
-    "**/target": true
+  "permissions": {
+    "allow": [
+      "src/**",
+      "Cargo.toml",
+      "CLAUDE.md",
+      "README.md"
+    ],
+    "ask": [
+      "assets/**",
+      "Cargo.lock",
+      "JOUER.cmd",
+      ".gitattributes",
+      ".gitignore"
+    ],
+    "deny": [
+      ".git/**",
+      "VOXEL.exe",
+      "assets/maps/city.bin",
+      "saves/**",
+      "target/**"
+    ]
   },
-  "search.exclude": {
-    "**/target": true,
-    "**/screenshots": true
-  }
+  "rust-analyzer.check.command": "clippy",
+  "editor.formatOnSave": true
 }
