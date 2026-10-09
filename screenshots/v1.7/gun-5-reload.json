@@ -1,0 +1,30 @@
+{
+  "average_fps": 144.29808044433594,
+  "chunks": 81,
+  "crops": 0,
+  "elapsed_seconds": 1.8474037647247314,
+  "explosions": 0,
+  "flowing_cells": 0,
+  "frames": 180,
+  "input_checks": "not_requested",
+  "magazine": 0,
+  "occlusion_checks": "not_requested",
+  "player": [
+    0.5,
+    41.0,
+    10.5
+  ],
+  "reload_checks": "not_requested",
+  "reloads": 0,
+  "seed": 64195485,
+  "shader_checks": "not_requested",
+  "shaders": true,
+  "shots": 0,
+  "size": [
+    1280.0,
+    800.0
+  ],
+  "status": "rendered",
+  "triangles": 127374,
+  "weapon_checks": "not_requested"
+}

@@ -1,0 +1,2946 @@
+{
+  "map": {
+    "file": "Apocalypse City - v1.32.zip",
+    "sha256": "384d0433fccbf92088aee84031c77aad9e32563ca0f0dae2ed8b833c2ed6d0f2",
+    "chunk_count": 69344,
+    "bounds": [
+      -2112,
+      2207,
+      -2176,
+      2335
+    ],
+    "translation": "Y shifted +64; source block states and geometry classified for existing gameplay; Minecraft scripts are not executed."
+  },
+  "textures": {
+    "repository": "https://github.com/Athemis/PixelPerfectionCE",
+    "revision": "28e38cab7c1f03f86364ef704f705bebcc13cb3d",
+    "license": "CC-BY-SA-4.0",
+    "tiles": [
+      {
+        "tile": 64,
+        "requested": "acacia_door_bottom",
+        "source": "assets/minecraft/textures/block/acacia_door_bottom.png",
+        "source_sha256": "2acc4a98ffcd8290c0db86530619824d170a50b9bbc9f78892d2553272e85010",
+        "adapted": false
+      },
+      {
+        "tile": 65,
+        "requested": "acacia_door_top",
+        "source": "assets/minecraft/textures/block/acacia_door_top.png",
+        "source_sha256": "9a1a98f531f5c180c32255b4a00624405141bbc26522998aba8b2f83e0bebfcf",
+        "adapted": false
+      },
+      {
+        "tile": 66,
+        "requested": "acacia_fence",
+        "source": "assets/minecraft/textures/block/acacia_fence.png",
+        "source_sha256": "5b44556b690303fc43ef0f2c50444ef90195b05f1d6d469faaf4ef453018526d",
+        "adapted": false
+      },
+      {
+        "tile": 67,
+        "requested": "acacia_fence_gate",
+        "source": "assets/minecraft/textures/block/acacia_fence_gate.png",
+        "source_sha256": "f1b47e4e12d1b8642db833b6711d42fdcd43067d7c5d55297f77bd495a640db7",
+        "adapted": false
+      },
+      {
+        "tile": 68,
+        "requested": "acacia_leaves",
+        "source": "assets/minecraft/textures/block/acacia_leaves.png",
+        "source_sha256": "139bf0b7f9716b1a9c78d6617b481eb0562fb0214bdc9f8037c1088bb611fc08",
+        "adapted": false
+      },
+      {
+        "tile": 69,
+        "requested": "acacia_log_top",
+        "source": "assets/minecraft/textures/block/acacia_log_top.png",
+        "source_sha256": "f01e86479838cc682f286c211e9303454b48390ef6d91577ba952ad7cd8ff33c",
+        "adapted": false
+      },
+      {
+        "tile": 70,
+        "requested": "acacia_log",
+        "source": "assets/minecraft/textures/block/acacia_log.png",
+        "source_sha256": "80081141c2f4e5559749a6759ad48ac843f88f9790e062ab14a5db7d88e1290c",
+        "adapted": false
+      },
+      {
+        "tile": 71,
+        "requested": "acacia_planks",
+        "source": "assets/minecraft/textures/block/acacia_planks.png",
+        "source_sha256": "ee92f18570f05a3ece75dec7249670d7da1880946838f355db95bdb32580da24",
+        "adapted": false
+      },
+      {
+        "tile": 72,
+        "requested": "acacia_pressure_plate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 73,
+        "requested": "air",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 74,
+        "requested": "allium",
+        "source": "assets/minecraft/textures/block/allium.png",
+        "source_sha256": "8d2508344193807ad2543f92f77d38cd8c0629cbdb109a3b4ddd75486c59b614",
+        "adapted": false
+      },
+      {
+        "tile": 75,
+        "requested": "amethyst_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 76,
+        "requested": "amethyst_cluster",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 77,
+        "requested": "andesite",
+        "source": "assets/minecraft/textures/block/andesite.png",
+        "source_sha256": "0f078c7392adfbeb96fc24479c017ca6d50fb4cbd37d4bb891ce760c9bdf1fa8",
+        "adapted": false
+      },
+      {
+        "tile": 78,
+        "requested": "azalea",
+        "source": "assets/minecraft/textures/block/oak_leaves.png",
+        "source_sha256": "a1f55d3b3362b01300e24c3196424bd662b2ad84c354656b7bd2d8145e8ca5e1",
+        "adapted": true
+      },
+      {
+        "tile": 79,
+        "requested": "azalea_leaves",
+        "source": "assets/minecraft/textures/block/oak_leaves.png",
+        "source_sha256": "a1f55d3b3362b01300e24c3196424bd662b2ad84c354656b7bd2d8145e8ca5e1",
+        "adapted": true
+      },
+      {
+        "tile": 80,
+        "requested": "azure_bluet",
+        "source": "assets/minecraft/textures/block/azure_bluet.png",
+        "source_sha256": "f8a10fba990c7be4ef02df1651a245c7ab418940545bf9c51b6551238c70251a",
+        "adapted": false
+      },
+      {
+        "tile": 81,
+        "requested": "bamboo",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 82,
+        "requested": "barrel_side",
+        "source": "assets/minecraft/textures/block/barrel_side.png",
+        "source_sha256": "4b45cea387eccb77abe1c8f73120777cd52d9d440988819d3db9be67e1d21a6e",
+        "adapted": false
+      },
+      {
+        "tile": 83,
+        "requested": "barrel_top",
+        "source": "assets/minecraft/textures/block/barrel_top.png",
+        "source_sha256": "dd5681d57da37265c363057414007df05285eb6033610542050c7832f3b123e5",
+        "adapted": false
+      },
+      {
+        "tile": 84,
+        "requested": "barrel_bottom",
+        "source": "assets/minecraft/textures/block/barrel_bottom.png",
+        "source_sha256": "5b1c0237af5b4b0f8396f7d6e093a2611671a2e0a03b0ed03fe76ab73c3a3674",
+        "adapted": false
+      },
+      {
+        "tile": 85,
+        "requested": "bedrock",
+        "source": "assets/minecraft/textures/block/bedrock.png",
+        "source_sha256": "f027ebcfb84a3da5099a69fe1b0d640779731aa8c5373f3435aad17e19dc1378",
+        "adapted": false
+      },
+      {
+        "tile": 86,
+        "requested": "bee_nest",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 87,
+        "requested": "beetroots",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 88,
+        "requested": "bell",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 89,
+        "requested": "big_dripleaf",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 90,
+        "requested": "big_dripleaf_stem",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 91,
+        "requested": "birch_fence",
+        "source": "assets/minecraft/textures/block/birch_fence.png",
+        "source_sha256": "d71163bc2d518fc1db4b1a51d8ef42dd946b2435ff873a8ef8267ca7e6556430",
+        "adapted": false
+      },
+      {
+        "tile": 92,
+        "requested": "birch_leaves",
+        "source": "assets/minecraft/textures/block/birch_leaves.png",
+        "source_sha256": "adad4a83c06e5d488caf7956318d24fd4f5d47aa8420b387adc8c0344fe37720",
+        "adapted": false
+      },
+      {
+        "tile": 93,
+        "requested": "birch_log_top",
+        "source": "assets/minecraft/textures/block/birch_log_top.png",
+        "source_sha256": "bfdba20ef603bf1aadb77899bcd8d56c59be0ecba3ad64a502c6adfea40a3e82",
+        "adapted": false
+      },
+      {
+        "tile": 94,
+        "requested": "birch_log",
+        "source": "assets/minecraft/textures/block/birch_log.png",
+        "source_sha256": "1736b8699e6c5d1bdf9351cd28875503fc5c5d25b3fad69611650fc217c550e6",
+        "adapted": false
+      },
+      {
+        "tile": 95,
+        "requested": "birch_planks",
+        "source": "assets/minecraft/textures/block/birch_planks.png",
+        "source_sha256": "7322f43281e12c95325a0657cab8e57cb9ccd7884ad46c0b73dc12e28d82f04c",
+        "adapted": false
+      },
+      {
+        "tile": 96,
+        "requested": "red_wool",
+        "source": "assets/minecraft/textures/block/red_wool.png",
+        "source_sha256": "0f8c59f6b2a80f9d7bb4b6a22bf5cd4f96cb25147c45d4b84335352606d5cf51",
+        "adapted": false
+      },
+      {
+        "tile": 97,
+        "requested": "black_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 98,
+        "requested": "black_concrete",
+        "source": "assets/minecraft/textures/block/black_concrete.png",
+        "source_sha256": "13339ef8c5e2f4c66eaea087e1eab37df1ea39cd5c6cfb00b0cca6ebf3fd4537",
+        "adapted": false
+      },
+      {
+        "tile": 99,
+        "requested": "black_glazed_terracotta",
+        "source": "assets/minecraft/textures/block/black_glazed_terracotta.png",
+        "source_sha256": "9c392f44f4f786f59b892bcc8d0908aeeda192d4c94ac8210f36e4b667ab90de",
+        "adapted": false
+      },
+      {
+        "tile": 100,
+        "requested": "black_stained_glass",
+        "source": "assets/minecraft/textures/block/black_stained_glass.png",
+        "source_sha256": "6da2527bf12635360f1b282b09e7a9658182a6e26ba163fc5ee52478ab37541c",
+        "adapted": false
+      },
+      {
+        "tile": 101,
+        "requested": "black_stained_glass_pane",
+        "source": "assets/minecraft/textures/block/glass.png",
+        "source_sha256": "86680c62620dab3af416b508033fc1673e6a77e6007e5a8c6098ad9d034643dc",
+        "adapted": true
+      },
+      {
+        "tile": 102,
+        "requested": "black_wool",
+        "source": "assets/minecraft/textures/block/black_wool.png",
+        "source_sha256": "96f1915f1278808108c067c51a97a1fb4db2bed6dbdb2bd8db716f03a166353a",
+        "adapted": false
+      },
+      {
+        "tile": 103,
+        "requested": "furnace_front",
+        "source": "assets/minecraft/textures/block/furnace_front.png",
+        "source_sha256": "ab05c8cf07d13a175230b49ec76adde4d5d142389a28e808526a3b8c70680fda",
+        "adapted": false
+      },
+      {
+        "tile": 104,
+        "requested": "furnace_side",
+        "source": "assets/minecraft/textures/block/furnace_side.png",
+        "source_sha256": "905f36ff84fc4366fc295007c1ae96319938091be5684d99897e6761c832a187",
+        "adapted": false
+      },
+      {
+        "tile": 105,
+        "requested": "furnace_top",
+        "source": "assets/minecraft/textures/block/furnace_top.png",
+        "source_sha256": "5ec2c537a30efe1e7e2dad5fd2d694cdb9810d98ccbd5992d442dfa70c1aaaad",
+        "adapted": false
+      },
+      {
+        "tile": 106,
+        "requested": "blue_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 107,
+        "requested": "blue_ice",
+        "source": "assets/minecraft/textures/block/blue_ice.png",
+        "source_sha256": "126d5de74c284f4accebea1271d1be520d90a15a537f75906e84422c00a8d44f",
+        "adapted": false
+      },
+      {
+        "tile": 108,
+        "requested": "blue_orchid",
+        "source": "assets/minecraft/textures/block/blue_orchid.png",
+        "source_sha256": "af766fd4b1f4acc3c232a5811cbb285e49ca84f9244173261b785c18c2219eb1",
+        "adapted": false
+      },
+      {
+        "tile": 109,
+        "requested": "blue_terracotta",
+        "source": "assets/minecraft/textures/block/blue_terracotta.png",
+        "source_sha256": "672aa1ae2d7018cad070dcba7388ca3814e7fc175097b8b62469160df3e0c8f1",
+        "adapted": false
+      },
+      {
+        "tile": 110,
+        "requested": "blue_wool",
+        "source": "assets/minecraft/textures/block/blue_wool.png",
+        "source_sha256": "85cd6cfbc894b1c017a90e935428800684e6d5356a3066b5d2764b28cc0cef10",
+        "adapted": false
+      },
+      {
+        "tile": 111,
+        "requested": "bone_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 112,
+        "requested": "bookshelf",
+        "source": "assets/minecraft/textures/block/bookshelf.png",
+        "source_sha256": "9902219cace5e9db17042b09dab28df9c6ecb6a7eb3bb2b790f39b502022c61d",
+        "adapted": false
+      },
+      {
+        "tile": 113,
+        "requested": "brain_coral",
+        "source": "assets/minecraft/textures/block/brain_coral.png",
+        "source_sha256": "0c7254289b6d5a61496ef4ccebdcd065281ddc32f24eabe759e3d478a5bd4dc2",
+        "adapted": false
+      },
+      {
+        "tile": 114,
+        "requested": "brain_coral_block",
+        "source": "assets/minecraft/textures/block/brain_coral_block.png",
+        "source_sha256": "29f0228cfbe1ec1c603296ab1c2fa404b600d961b33d256f53594994daf3d66f",
+        "adapted": false
+      },
+      {
+        "tile": 115,
+        "requested": "brain_coral_fan",
+        "source": "assets/minecraft/textures/block/brain_coral_fan.png",
+        "source_sha256": "c3c49bed58eb348a476a253acd4d2d3552dc17af9f3380dbf3505fa82f7a7be1",
+        "adapted": false
+      },
+      {
+        "tile": 116,
+        "requested": "brain_coral_wall_fan",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 117,
+        "requested": "brewing_stand",
+        "source": "assets/minecraft/textures/block/brewing_stand.png",
+        "source_sha256": "6df0103ba94dfda426a31a9c375ed012b99180127a1dd053004015855d11e2ee",
+        "adapted": false
+      },
+      {
+        "tile": 118,
+        "requested": "bricks",
+        "source": "assets/minecraft/textures/block/bricks.png",
+        "source_sha256": "f3a17b317ebb7ad940c3b88380041887fd46ce1875036ac8d050a3b10ecff878",
+        "adapted": false
+      },
+      {
+        "tile": 119,
+        "requested": "brown_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 120,
+        "requested": "brown_mushroom",
+        "source": "assets/minecraft/textures/block/brown_mushroom.png",
+        "source_sha256": "bc0712243ff3b12a5acf129e1fd134bd09a9cc7930e3330597121b422a587252",
+        "adapted": false
+      },
+      {
+        "tile": 121,
+        "requested": "brown_mushroom_block",
+        "source": "assets/minecraft/textures/block/brown_mushroom_block.png",
+        "source_sha256": "fb29e2d4ac4e51ef9cb4b6904b65f284aa0e9ce03af015dc76c361f618c162fc",
+        "adapted": false
+      },
+      {
+        "tile": 122,
+        "requested": "brown_terracotta",
+        "source": "assets/minecraft/textures/block/brown_terracotta.png",
+        "source_sha256": "a024ae44faedc3a6496176a79e715787f13fa5a9708d9857c5a8873f95e81f1a",
+        "adapted": false
+      },
+      {
+        "tile": 123,
+        "requested": "brown_wall_banner",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 124,
+        "requested": "brown_wool",
+        "source": "assets/minecraft/textures/block/brown_wool.png",
+        "source_sha256": "dc948bdd33f03f4d2255d0573e5181694d0faca9b4296c727cf43f9c0205fca0",
+        "adapted": false
+      },
+      {
+        "tile": 125,
+        "requested": "bubble_column",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 126,
+        "requested": "bubble_coral",
+        "source": "assets/minecraft/textures/block/bubble_coral.png",
+        "source_sha256": "4eda09878a1ae842695c2d7768a8b178b449747da01caadc22bd963b4f8d6052",
+        "adapted": false
+      },
+      {
+        "tile": 127,
+        "requested": "bubble_coral_block",
+        "source": "assets/minecraft/textures/block/bubble_coral_block.png",
+        "source_sha256": "142e8d04c1f518468ac123072cd77da28893b42dc6f9d7797c13b417e5f09ac4",
+        "adapted": false
+      },
+      {
+        "tile": 128,
+        "requested": "bubble_coral_fan",
+        "source": "assets/minecraft/textures/block/bubble_coral_fan.png",
+        "source_sha256": "4df2e92d3f1e2177e44099987c515c06378605ea1561c5be8f3c8b21de6dc021",
+        "adapted": false
+      },
+      {
+        "tile": 129,
+        "requested": "bubble_coral_wall_fan",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 130,
+        "requested": "budding_amethyst",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 131,
+        "requested": "bush",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 132,
+        "requested": "cactus",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 133,
+        "requested": "cactus_flower",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 134,
+        "requested": "calcite",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 135,
+        "requested": "campfire",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 136,
+        "requested": "candle",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 137,
+        "requested": "carrots",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 138,
+        "requested": "cartography_table",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 139,
+        "requested": "carved_pumpkin",
+        "source": "assets/minecraft/textures/block/carved_pumpkin.png",
+        "source_sha256": "9ee1a157160ee7fa12826925ebea42e72487449b21dfc7e8583d7962baa35eff",
+        "adapted": false
+      },
+      {
+        "tile": 140,
+        "requested": "cauldron",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 141,
+        "requested": "cave_air",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 142,
+        "requested": "cave_vines",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 143,
+        "requested": "cave_vines_plant",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 144,
+        "requested": "chain",
+        "source": "assets/minecraft/textures/block/chain.png",
+        "source_sha256": "bab78bf3be059cedc5de6a9f6587bdbf0cef72debeccf94ec72a85ca986b5e2c",
+        "adapted": false
+      },
+      {
+        "tile": 145,
+        "requested": "cherry_leaves",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 146,
+        "requested": "cherry_log_top",
+        "source": "assets/minecraft/textures/block/oak_planks.png",
+        "source_sha256": "4901406e9d19d161264b438adc5d80056a3b6b173116e5fa3e4ac4ce95e931eb",
+        "adapted": true
+      },
+      {
+        "tile": 147,
+        "requested": "cherry_log",
+        "source": "assets/minecraft/textures/block/oak_planks.png",
+        "source_sha256": "4901406e9d19d161264b438adc5d80056a3b6b173116e5fa3e4ac4ce95e931eb",
+        "adapted": true
+      },
+      {
+        "tile": 148,
+        "requested": "oak_planks",
+        "source": "assets/minecraft/textures/block/oak_planks.png",
+        "source_sha256": "4901406e9d19d161264b438adc5d80056a3b6b173116e5fa3e4ac4ce95e931eb",
+        "adapted": false
+      },
+      {
+        "tile": 149,
+        "requested": "chiseled_bookshelf",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 150,
+        "requested": "chiseled_deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 151,
+        "requested": "chiseled_sandstone",
+        "source": "assets/minecraft/textures/block/chiseled_sandstone.png",
+        "source_sha256": "b530cef29412d75452840b5a0410cf6ad117cb44f7e9d1b4bd61e64b1d6ebd24",
+        "adapted": false
+      },
+      {
+        "tile": 152,
+        "requested": "chiseled_stone_bricks",
+        "source": "assets/minecraft/textures/block/chiseled_stone_bricks.png",
+        "source_sha256": "5ea4b66550a1f257cddd94fc0f6971e96e2f7e6f8fecc3432546c972c0058e6f",
+        "adapted": false
+      },
+      {
+        "tile": 153,
+        "requested": "chiseled_tuff",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 154,
+        "requested": "chiseled_tuff_bricks",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 155,
+        "requested": "clay",
+        "source": "assets/minecraft/textures/block/clay.png",
+        "source_sha256": "0c844492278a429c3ffdc82ddf7db9ca12d47037f0f7cfd50d636dcb433d9512",
+        "adapted": false
+      },
+      {
+        "tile": 156,
+        "requested": "coal_ore",
+        "source": "assets/minecraft/textures/block/coal_ore.png",
+        "source_sha256": "71605ac67c7103a0ac2b491dc1a0a3e16d7f925f0630ea2730971b7453d9ab09",
+        "adapted": false
+      },
+      {
+        "tile": 157,
+        "requested": "coarse_dirt",
+        "source": "assets/minecraft/textures/block/coarse_dirt.png",
+        "source_sha256": "4d5d5fa5ae4705b798af3866697c1f6be742de01b20dfb7aa9f90ea4c44c285e",
+        "adapted": false
+      },
+      {
+        "tile": 158,
+        "requested": "cobbled_deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 159,
+        "requested": "cobblestone",
+        "source": "assets/minecraft/textures/block/cobblestone.png",
+        "source_sha256": "4f61ac1c15188c96c5b0baf944a64c700e661af878458b52c928908b3a7929e7",
+        "adapted": false
+      },
+      {
+        "tile": 160,
+        "requested": "cobweb",
+        "source": "assets/minecraft/textures/block/cobweb.png",
+        "source_sha256": "0ecea0515a9e005eb8a1aafd07a8a9440b726525cf78741def03a30856e9ee80",
+        "adapted": false
+      },
+      {
+        "tile": 161,
+        "requested": "cocoa",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 162,
+        "requested": "composter",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 163,
+        "requested": "copper_block",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 164,
+        "requested": "copper_ore",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 165,
+        "requested": "cornflower",
+        "source": "assets/minecraft/textures/block/cornflower.png",
+        "source_sha256": "b3fe9f1a7d43b8d4e93aa951e85e5bf22484166d4c33599bfa15efe8e3de6a57",
+        "adapted": false
+      },
+      {
+        "tile": 166,
+        "requested": "cracked_deepslate_bricks",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 167,
+        "requested": "cracked_deepslate_tiles",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 168,
+        "requested": "cracked_stone_bricks",
+        "source": "assets/minecraft/textures/block/cracked_stone_bricks.png",
+        "source_sha256": "3be116e252281ed0ec4cfa046f6abb2573f7c814b521dfec18af668f139598f9",
+        "adapted": false
+      },
+      {
+        "tile": 169,
+        "requested": "crafting_table_side",
+        "source": "assets/minecraft/textures/block/crafting_table_side.png",
+        "source_sha256": "411ca27cfb71ed793b9131c5ff571de1970ba392c0299a7b4bdb58d3508ce44f",
+        "adapted": false
+      },
+      {
+        "tile": 170,
+        "requested": "crafting_table_top",
+        "source": "assets/minecraft/textures/block/crafting_table_top.png",
+        "source_sha256": "4c7fbf41aab163ec46f39cde86de4596fb68d09836f7a6c1e145df6b5a790a1b",
+        "adapted": false
+      },
+      {
+        "tile": 171,
+        "requested": "crafting_table_front",
+        "source": "assets/minecraft/textures/block/crafting_table_front.png",
+        "source_sha256": "678b67d7d31625ed1f11707a540c0d8b4a8ad9852c7227af905ddc0ef1635a47",
+        "adapted": false
+      },
+      {
+        "tile": 172,
+        "requested": "crying_obsidian",
+        "source": "assets/minecraft/textures/block/crying_obsidian.png",
+        "source_sha256": "15a426bd7cdff8bcfd53b95d939c41a525de4835234e1e9f14bc8341c235b817",
+        "adapted": false
+      },
+      {
+        "tile": 173,
+        "requested": "cut_sandstone",
+        "source": "assets/minecraft/textures/block/cut_sandstone.png",
+        "source_sha256": "34b30b03749d1d26269b14477b0ccb37c83f34e1ca590291af4b2f7e1c6ee9cd",
+        "adapted": false
+      },
+      {
+        "tile": 174,
+        "requested": "cyan_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 175,
+        "requested": "cyan_terracotta",
+        "source": "assets/minecraft/textures/block/cyan_terracotta.png",
+        "source_sha256": "9a63d58e571ff1336f3c9dd1edf8ae8fac4741f238db3e9718cf2507957af596",
+        "adapted": false
+      },
+      {
+        "tile": 176,
+        "requested": "cyan_wool",
+        "source": "assets/minecraft/textures/block/cyan_wool.png",
+        "source_sha256": "7b30279b4d2c76377b8addd657db170a5501ac74c76e4d15b61d0978331acbf4",
+        "adapted": false
+      },
+      {
+        "tile": 177,
+        "requested": "dandelion",
+        "source": "assets/minecraft/textures/block/dandelion.png",
+        "source_sha256": "5cb40668a3077dcc8f422a02323c90f6c83e7eb5f154525ab502d94218df94fd",
+        "adapted": false
+      },
+      {
+        "tile": 178,
+        "requested": "dark_oak_door_bottom",
+        "source": "assets/minecraft/textures/block/dark_oak_door_bottom.png",
+        "source_sha256": "5e843e004b88c59757238b728516a94fa8b9efddfd5f42790098d244b523647f",
+        "adapted": false
+      },
+      {
+        "tile": 179,
+        "requested": "dark_oak_door_top",
+        "source": "assets/minecraft/textures/block/dark_oak_door_top.png",
+        "source_sha256": "7bd252ebf913e56e15f5e130c002e8496fca43b2e8fa9a7cf655b288e338c3bd",
+        "adapted": false
+      },
+      {
+        "tile": 180,
+        "requested": "dark_oak_fence",
+        "source": "assets/minecraft/textures/block/dark_oak_fence.png",
+        "source_sha256": "3730856a5dca6ab24a6c309a2c22c84c154008347087e29da73623f83da60ad2",
+        "adapted": false
+      },
+      {
+        "tile": 181,
+        "requested": "dark_oak_fence_gate",
+        "source": "assets/minecraft/textures/block/dark_oak_fence_gate.png",
+        "source_sha256": "f4f795b0ac92d6f8b75960f12feadd8297096ec646530aa349fd7c92eef189f7",
+        "adapted": false
+      },
+      {
+        "tile": 182,
+        "requested": "dark_oak_leaves",
+        "source": "assets/minecraft/textures/block/dark_oak_leaves.png",
+        "source_sha256": "7c79a4a42b245ab80bc4ea094fda07979997ed4b7f356253fdab07c16a892800",
+        "adapted": false
+      },
+      {
+        "tile": 183,
+        "requested": "dark_oak_log_top",
+        "source": "assets/minecraft/textures/block/dark_oak_log_top.png",
+        "source_sha256": "85def282889f86c78663ff57a02b844af5b85a843e9e6363210c634d1584c21e",
+        "adapted": false
+      },
+      {
+        "tile": 184,
+        "requested": "dark_oak_log",
+        "source": "assets/minecraft/textures/block/dark_oak_log.png",
+        "source_sha256": "d6031144dce364ad57d7ec5a23cf28dd069e08e3756ec3fa56f882878f29c421",
+        "adapted": false
+      },
+      {
+        "tile": 185,
+        "requested": "dark_oak_planks",
+        "source": "assets/minecraft/textures/block/dark_oak_planks.png",
+        "source_sha256": "14ce2b25c87a7cbd1d465f53d94ef47129d7260e5c7eae378e5173dc6a6526de",
+        "adapted": false
+      },
+      {
+        "tile": 186,
+        "requested": "dark_oak_sapling",
+        "source": "assets/minecraft/textures/block/dark_oak_sapling.png",
+        "source_sha256": "521fea723706f29ab6efc25f961ff072146e68140cc087d9d57eaaf0bedd01d5",
+        "adapted": false
+      },
+      {
+        "tile": 187,
+        "requested": "dark_oak_trapdoor",
+        "source": "assets/minecraft/textures/block/dark_oak_trapdoor.png",
+        "source_sha256": "94d5c63f570acda938a11501d2fab78ef379b49c6ab1c0b8aa930b5d43a5125c",
+        "adapted": false
+      },
+      {
+        "tile": 188,
+        "requested": "daylight_detector",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 189,
+        "requested": "dead_bush",
+        "source": "assets/minecraft/textures/block/dead_bush.png",
+        "source_sha256": "10dc837f3a2d5491c9a6f856243a624212a58fe672e7f1fcdec11e7b365a0cf9",
+        "adapted": false
+      },
+      {
+        "tile": 190,
+        "requested": "decorated_pot",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 191,
+        "requested": "deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 192,
+        "requested": "deepslate_bricks",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 193,
+        "requested": "deepslate_coal_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 194,
+        "requested": "deepslate_copper_ore",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 195,
+        "requested": "deepslate_diamond_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 196,
+        "requested": "deepslate_emerald_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 197,
+        "requested": "deepslate_gold_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 198,
+        "requested": "deepslate_iron_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 199,
+        "requested": "deepslate_lapis_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 200,
+        "requested": "deepslate_redstone_ore",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 201,
+        "requested": "deepslate_tiles",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 202,
+        "requested": "diamond_ore",
+        "source": "assets/minecraft/textures/block/diamond_ore.png",
+        "source_sha256": "00b20d354bb7f2be4951661e76ff213e7b0b4a27550a8810bdaba132d87a8fd4",
+        "adapted": false
+      },
+      {
+        "tile": 203,
+        "requested": "diorite",
+        "source": "assets/minecraft/textures/block/diorite.png",
+        "source_sha256": "3c850e41830749cedef199bcd1aabe1e49f93841a2872d3afb003443712b5d20",
+        "adapted": false
+      },
+      {
+        "tile": 204,
+        "requested": "dirt",
+        "source": "assets/minecraft/textures/block/dirt.png",
+        "source_sha256": "f8dbc2b3c010852d398b0ab2f04c6e8c7ba9dfc5559b44f1c52efb166683bb37",
+        "adapted": false
+      },
+      {
+        "tile": 205,
+        "requested": "dirt_path",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 206,
+        "requested": "dispenser",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 207,
+        "requested": "dripstone_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 208,
+        "requested": "emerald_ore",
+        "source": "assets/minecraft/textures/block/emerald_ore.png",
+        "source_sha256": "ea86198c8320a9766d9f34f7f49575d12229c451db9d93548415a5ce82d29fc0",
+        "adapted": false
+      },
+      {
+        "tile": 209,
+        "requested": "farmland",
+        "source": "assets/minecraft/textures/block/farmland.png",
+        "source_sha256": "447a08a80abd8313290764e9b67cc419f1f5f51e1585a09f05cda93d183c3747",
+        "adapted": false
+      },
+      {
+        "tile": 210,
+        "requested": "fern",
+        "source": "assets/minecraft/textures/block/fern.png",
+        "source_sha256": "01a21a6f6e98c1bd73af4cea86649181be4be56fd6b7430537d887bb53df400f",
+        "adapted": false
+      },
+      {
+        "tile": 211,
+        "requested": "fire_coral",
+        "source": "assets/minecraft/textures/block/fire_coral.png",
+        "source_sha256": "a7e828c377e63a9dcc50c85ba94cbf36ace2693550e54aad05ca47f7914dad43",
+        "adapted": false
+      },
+      {
+        "tile": 212,
+        "requested": "fire_coral_block",
+        "source": "assets/minecraft/textures/block/fire_coral_block.png",
+        "source_sha256": "d75913968678bf08ac16098dc39a50d5d90a5f123964b1c08d34a95e83c07391",
+        "adapted": false
+      },
+      {
+        "tile": 213,
+        "requested": "fire_coral_fan",
+        "source": "assets/minecraft/textures/block/fire_coral_fan.png",
+        "source_sha256": "8e8cabd71e6e0303bf4d059fc5728247c64484eaa5cc6f9499a2d9c9e2fb0d80",
+        "adapted": false
+      },
+      {
+        "tile": 214,
+        "requested": "fire_coral_wall_fan",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 215,
+        "requested": "firefly_bush",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 216,
+        "requested": "fletching_table",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 217,
+        "requested": "flower_pot",
+        "source": "assets/minecraft/textures/block/flower_pot.png",
+        "source_sha256": "988d75e3de5fd97f2f8108fc18388b37c0c3bdb56bb9eb74a0f8db4436ca666c",
+        "adapted": false
+      },
+      {
+        "tile": 218,
+        "requested": "flowering_azalea",
+        "source": "assets/minecraft/textures/block/oak_leaves.png",
+        "source_sha256": "a1f55d3b3362b01300e24c3196424bd662b2ad84c354656b7bd2d8145e8ca5e1",
+        "adapted": true
+      },
+      {
+        "tile": 219,
+        "requested": "flowering_azalea_leaves",
+        "source": "assets/minecraft/textures/block/oak_leaves.png",
+        "source_sha256": "a1f55d3b3362b01300e24c3196424bd662b2ad84c354656b7bd2d8145e8ca5e1",
+        "adapted": true
+      },
+      {
+        "tile": 220,
+        "requested": "glass_pane",
+        "source": "assets/minecraft/textures/block/glass.png",
+        "source_sha256": "86680c62620dab3af416b508033fc1673e6a77e6007e5a8c6098ad9d034643dc",
+        "adapted": true
+      },
+      {
+        "tile": 221,
+        "requested": "glow_lichen",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 222,
+        "requested": "gold_block",
+        "source": "assets/minecraft/textures/block/gold_block.png",
+        "source_sha256": "bb175f3f4051013b160a984c670f6b45c427e897fd0bd9136d40217a858bb516",
+        "adapted": false
+      },
+      {
+        "tile": 223,
+        "requested": "gold_ore",
+        "source": "assets/minecraft/textures/block/gold_ore.png",
+        "source_sha256": "54677ce92df601d7aa939ca68e8aa8f2fd4fa7f798944f478f769f24baeff508",
+        "adapted": false
+      },
+      {
+        "tile": 224,
+        "requested": "granite",
+        "source": "assets/minecraft/textures/block/granite.png",
+        "source_sha256": "af94be268d78830ce6814a97f418be17fdcde9ecdc97092226095d48751cf2b9",
+        "adapted": false
+      },
+      {
+        "tile": 225,
+        "requested": "grass_block_side",
+        "source": "assets/minecraft/textures/block/grass_block_side.png",
+        "source_sha256": "92aa133db40efd09ccaf363fc2ca16ad6c4ae899a9a6eea6b27fd2ae3afda116",
+        "adapted": false
+      },
+      {
+        "tile": 226,
+        "requested": "grass_block_top",
+        "source": "assets/minecraft/textures/block/grass_block_top.png",
+        "source_sha256": "1ab60241be2a217530758a111b687ad38829f1c20928187007beb858c457f249",
+        "adapted": false
+      },
+      {
+        "tile": 227,
+        "requested": "gravel",
+        "source": "assets/minecraft/textures/block/gravel.png",
+        "source_sha256": "299bfb04ede91101c50773eb3cbc202d10e4472dd6cffb71e7e142bdacc79068",
+        "adapted": false
+      },
+      {
+        "tile": 228,
+        "requested": "gray_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 229,
+        "requested": "gray_terracotta",
+        "source": "assets/minecraft/textures/block/gray_terracotta.png",
+        "source_sha256": "154c8e40913db9d27a117b33a099e0aa5ed28be766bf678d93e6c2ede97887ca",
+        "adapted": false
+      },
+      {
+        "tile": 230,
+        "requested": "gray_wool",
+        "source": "assets/minecraft/textures/block/gray_wool.png",
+        "source_sha256": "66ee54c64e02f5e2ace1f02013e1074cf6339d3176840645c1f13a2313d1a65e",
+        "adapted": false
+      },
+      {
+        "tile": 231,
+        "requested": "green_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 232,
+        "requested": "green_wool",
+        "source": "assets/minecraft/textures/block/green_wool.png",
+        "source_sha256": "7f716d15f239edd483cfc0e0a63d79a9d004441b1e370b8a3caf20fc8eace214",
+        "adapted": false
+      },
+      {
+        "tile": 233,
+        "requested": "grindstone",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 234,
+        "requested": "hanging_roots",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 235,
+        "requested": "hay_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 236,
+        "requested": "heavy_weighted_pressure_plate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 237,
+        "requested": "hopper",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 238,
+        "requested": "horn_coral",
+        "source": "assets/minecraft/textures/block/horn_coral.png",
+        "source_sha256": "230994e3b32d7848ad24881272bdf3660dcbc25fc8b28b3ee62deaafb75c1b15",
+        "adapted": false
+      },
+      {
+        "tile": 239,
+        "requested": "horn_coral_block",
+        "source": "assets/minecraft/textures/block/horn_coral_block.png",
+        "source_sha256": "559a5cb7702f95424a022e9180d4bb68ae71d6b673ba3dc8ce4e7d327a73f96d",
+        "adapted": false
+      },
+      {
+        "tile": 240,
+        "requested": "horn_coral_fan",
+        "source": "assets/minecraft/textures/block/horn_coral_fan.png",
+        "source_sha256": "df70327a55c5ff867df597aadd252cf45eebafbe43b2e8981d4449f7709213a2",
+        "adapted": false
+      },
+      {
+        "tile": 241,
+        "requested": "horn_coral_wall_fan",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 242,
+        "requested": "ice",
+        "source": "assets/minecraft/textures/block/ice.png",
+        "source_sha256": "3aec75eeff49ceb95bb1f67008e8914a3895ea4d9ad669f8a755bc24077a7843",
+        "adapted": false
+      },
+      {
+        "tile": 243,
+        "requested": "infested_chiseled_stone_bricks",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 244,
+        "requested": "infested_deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 245,
+        "requested": "infested_mossy_stone_bricks",
+        "source": "assets/minecraft/textures/block/mossy_stone_bricks.png",
+        "source_sha256": "7c53f60706ac016307445b9da84ec5d216b98f47a5952cd4bb6e067d27dc1a0f",
+        "adapted": true
+      },
+      {
+        "tile": 246,
+        "requested": "infested_stone",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 247,
+        "requested": "infested_stone_bricks",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 248,
+        "requested": "iron_bars",
+        "source": "assets/minecraft/textures/block/iron_bars.png",
+        "source_sha256": "8ed7a1459c7855d0fcc98037ac65e3601ef773acfa0af6c5027ece873d72baab",
+        "adapted": false
+      },
+      {
+        "tile": 249,
+        "requested": "iron_block",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": false
+      },
+      {
+        "tile": 250,
+        "requested": "iron_chain",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 251,
+        "requested": "iron_door_top",
+        "source": "assets/minecraft/textures/block/iron_door_top.png",
+        "source_sha256": "c8eb240b76f3deeb1b8ffb70ed746e7e6884554b2ae71e71a3cdfa378fc61367",
+        "adapted": false
+      },
+      {
+        "tile": 252,
+        "requested": "iron_door_bottom",
+        "source": "assets/minecraft/textures/block/iron_door_bottom.png",
+        "source_sha256": "2bf6b1ce1b93ca47676c319cf4a2207ef6bd05653cdf6e260665438d9ad8eb73",
+        "adapted": false
+      },
+      {
+        "tile": 253,
+        "requested": "iron_ore",
+        "source": "assets/minecraft/textures/block/iron_ore.png",
+        "source_sha256": "0ad6cb2a2a53d1782c82dbbec0bf69ba6bbf63528f02763a3556ebb773ed3de6",
+        "adapted": false
+      },
+      {
+        "tile": 254,
+        "requested": "iron_trapdoor",
+        "source": "assets/minecraft/textures/block/iron_trapdoor.png",
+        "source_sha256": "f1e029f4683b7dc25a50a6cd4b910b1ef1737b3584519939e8b8cb87998dbde9",
+        "adapted": false
+      },
+      {
+        "tile": 255,
+        "requested": "jukebox",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 256,
+        "requested": "jungle_button",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 257,
+        "requested": "jungle_door_bottom",
+        "source": "assets/minecraft/textures/block/jungle_door_bottom.png",
+        "source_sha256": "7ab8466cd5f7a697c2f98cb24c58e370289a6ce5d03a3f541c6b050a4d3157f8",
+        "adapted": false
+      },
+      {
+        "tile": 258,
+        "requested": "jungle_door_top",
+        "source": "assets/minecraft/textures/block/jungle_door_top.png",
+        "source_sha256": "e8dc8401fbb64a3eda96b474f468f2ba5aaa0ee640712515e069786594a67df3",
+        "adapted": false
+      },
+      {
+        "tile": 259,
+        "requested": "jungle_fence",
+        "source": "assets/minecraft/textures/block/jungle_fence.png",
+        "source_sha256": "3934d068bbe7dc8e5db3e7037b5c4a4c9275722134daf94f0fc290c898dae90d",
+        "adapted": false
+      },
+      {
+        "tile": 260,
+        "requested": "jungle_leaves",
+        "source": "assets/minecraft/textures/block/jungle_leaves.png",
+        "source_sha256": "905f8c71e172649927ed5c37de033ecb09a2797d93149931c268e475879ca596",
+        "adapted": false
+      },
+      {
+        "tile": 261,
+        "requested": "jungle_log_top",
+        "source": "assets/minecraft/textures/block/jungle_log_top.png",
+        "source_sha256": "dc9a8b764077fda17c95f9c0d6fba58625a55d6a375456e0ff13f52824dd795c",
+        "adapted": false
+      },
+      {
+        "tile": 262,
+        "requested": "jungle_log",
+        "source": "assets/minecraft/textures/block/jungle_log.png",
+        "source_sha256": "32332e0f114738c5563ddf9440e1bbf336711ccf16d686413ad0fc070925bee1",
+        "adapted": false
+      },
+      {
+        "tile": 263,
+        "requested": "jungle_planks",
+        "source": "assets/minecraft/textures/block/jungle_planks.png",
+        "source_sha256": "972cfbce3651326cc169f0bdf6307f302c562d7eac97a9608ef42a0a3dc048c4",
+        "adapted": false
+      },
+      {
+        "tile": 264,
+        "requested": "jungle_trapdoor",
+        "source": "assets/minecraft/textures/block/jungle_trapdoor.png",
+        "source_sha256": "8f23236adb157677fa6bbd665b33b276431adea9045fc7adde916368f85fe6f2",
+        "adapted": false
+      },
+      {
+        "tile": 265,
+        "requested": "kelp",
+        "source": "assets/minecraft/textures/block/kelp.png",
+        "source_sha256": "9804bd6cde213eea6334871696286dd8c545f0bf73b2f5c5a22b43f5b1fa342e",
+        "adapted": false
+      },
+      {
+        "tile": 266,
+        "requested": "kelp_plant",
+        "source": "assets/minecraft/textures/block/kelp_plant.png",
+        "source_sha256": "cba1e3171efe38d26225e6a69fbd9fe233457904934ccb0150eeb8267c489fe7",
+        "adapted": false
+      },
+      {
+        "tile": 267,
+        "requested": "ladder",
+        "source": "assets/minecraft/textures/block/ladder.png",
+        "source_sha256": "7e3be9b63074509b31f15bc04851fa046ecfe230512f40991f1281f55869a57f",
+        "adapted": false
+      },
+      {
+        "tile": 268,
+        "requested": "lantern",
+        "source": "assets/minecraft/textures/block/lantern.png",
+        "source_sha256": "3ce41d0d7fcf93084a1c253267926bb4f44d247f347ad9f426e8f07b131cca21",
+        "adapted": false
+      },
+      {
+        "tile": 269,
+        "requested": "lapis_block",
+        "source": "assets/minecraft/textures/block/lapis_block.png",
+        "source_sha256": "1fa36fb86a603519a1717a714366eaea2424404bd839ff8310297a7676648bd1",
+        "adapted": false
+      },
+      {
+        "tile": 270,
+        "requested": "lapis_ore",
+        "source": "assets/minecraft/textures/block/lapis_ore.png",
+        "source_sha256": "bdf9b152719b06f1785b5a480a47fcf35712578dc65ece026b8ae7024f6781b5",
+        "adapted": false
+      },
+      {
+        "tile": 271,
+        "requested": "large_amethyst_bud",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 272,
+        "requested": "large_fern",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 273,
+        "requested": "lava",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 274,
+        "requested": "leaf_litter",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 275,
+        "requested": "lectern",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 276,
+        "requested": "lever",
+        "source": "assets/minecraft/textures/block/lever.png",
+        "source_sha256": "2d129811638e6de33242ab778c5f1e2e86782f9fee58b97cbb21092675eb154c",
+        "adapted": false
+      },
+      {
+        "tile": 277,
+        "requested": "light_blue_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 278,
+        "requested": "light_blue_terracotta",
+        "source": "assets/minecraft/textures/block/light_blue_terracotta.png",
+        "source_sha256": "ef5c411731d2105ac2e27212c44130e138ae9a88976eac55aab8311b3ca66b17",
+        "adapted": false
+      },
+      {
+        "tile": 279,
+        "requested": "light_blue_wool",
+        "source": "assets/minecraft/textures/block/light_blue_wool.png",
+        "source_sha256": "4c33b01c87d26d868d5e31a4df19b781431b38b5aa6924f0630765d876b5c718",
+        "adapted": false
+      },
+      {
+        "tile": 280,
+        "requested": "light_gray_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 281,
+        "requested": "light_gray_concrete",
+        "source": "assets/minecraft/textures/block/light_gray_concrete.png",
+        "source_sha256": "2cd545c2de1667e503752f44da321637fa0c485bdc788efaab3784770e1c4c15",
+        "adapted": false
+      },
+      {
+        "tile": 282,
+        "requested": "light_gray_glazed_terracotta",
+        "source": "assets/minecraft/textures/block/light_gray_glazed_terracotta.png",
+        "source_sha256": "39aa558818617701013efb97deaa7c4b70a133b62b01154fe6877930f8bd3a55",
+        "adapted": false
+      },
+      {
+        "tile": 283,
+        "requested": "light_gray_stained_glass",
+        "source": "assets/minecraft/textures/block/light_gray_stained_glass.png",
+        "source_sha256": "5e103df582087507e220ec38f96928aad6f0c938713b88cb1eda597d348e5ab5",
+        "adapted": false
+      },
+      {
+        "tile": 284,
+        "requested": "light_gray_terracotta",
+        "source": "assets/minecraft/textures/block/light_gray_terracotta.png",
+        "source_sha256": "d6ed5be8a079995af09f60dfa05ef67e9fce5cf36ba23d2bbaa3018d83b55355",
+        "adapted": false
+      },
+      {
+        "tile": 285,
+        "requested": "light_gray_wall_banner",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 286,
+        "requested": "light_gray_wool",
+        "source": "assets/minecraft/textures/block/light_gray_wool.png",
+        "source_sha256": "844b59c98fb70ce3734b4ace50471b7686d5a69eece97b95d9c4dafba1c4aeda",
+        "adapted": false
+      },
+      {
+        "tile": 287,
+        "requested": "lilac",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 288,
+        "requested": "lily_of_the_valley",
+        "source": "assets/minecraft/textures/block/lily_of_the_valley.png",
+        "source_sha256": "1f39e73013031e2b3b7d0499d3f458649e18d45a8e1c401349ae09161ee13d0f",
+        "adapted": false
+      },
+      {
+        "tile": 289,
+        "requested": "lily_pad",
+        "source": "assets/minecraft/textures/block/lily_pad.png",
+        "source_sha256": "3c21a65c448accbfeb501af79aed31e6415bb2137630ec264c05a7d616ffd358",
+        "adapted": false
+      },
+      {
+        "tile": 290,
+        "requested": "lime_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 291,
+        "requested": "lime_wool",
+        "source": "assets/minecraft/textures/block/lime_wool.png",
+        "source_sha256": "9842cdf06ddc584bddcc6a1c1bb3887891b3e5da82d68dbac1dd90bef793378e",
+        "adapted": false
+      },
+      {
+        "tile": 292,
+        "requested": "loom",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 293,
+        "requested": "magma_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 294,
+        "requested": "mangrove_leaves",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 295,
+        "requested": "mangrove_log",
+        "source": "assets/minecraft/textures/block/oak_planks.png",
+        "source_sha256": "4901406e9d19d161264b438adc5d80056a3b6b173116e5fa3e4ac4ce95e931eb",
+        "adapted": true
+      },
+      {
+        "tile": 296,
+        "requested": "mangrove_log_top",
+        "source": "assets/minecraft/textures/block/oak_planks.png",
+        "source_sha256": "4901406e9d19d161264b438adc5d80056a3b6b173116e5fa3e4ac4ce95e931eb",
+        "adapted": true
+      },
+      {
+        "tile": 297,
+        "requested": "mangrove_roots",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 298,
+        "requested": "medium_amethyst_bud",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 299,
+        "requested": "melon",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 300,
+        "requested": "melon_stem",
+        "source": "assets/minecraft/textures/block/melon_stem.png",
+        "source_sha256": "34bf3444bc7e8bd1804c2442ab40b6c862f157b16c41a95758eb6d697f881e16",
+        "adapted": false
+      },
+      {
+        "tile": 301,
+        "requested": "moss_block",
+        "source": "assets/minecraft/textures/block/grass_block_top.png",
+        "source_sha256": "1ab60241be2a217530758a111b687ad38829f1c20928187007beb858c457f249",
+        "adapted": true
+      },
+      {
+        "tile": 302,
+        "requested": "moss_carpet",
+        "source": "assets/minecraft/textures/block/grass_block_top.png",
+        "source_sha256": "1ab60241be2a217530758a111b687ad38829f1c20928187007beb858c457f249",
+        "adapted": true
+      },
+      {
+        "tile": 303,
+        "requested": "mossy_cobblestone",
+        "source": "assets/minecraft/textures/block/mossy_cobblestone.png",
+        "source_sha256": "6edfe28ba567ac5735cd21a8d3dfa710120a850877a2b3009a1e478478302b03",
+        "adapted": false
+      },
+      {
+        "tile": 304,
+        "requested": "mossy_stone_bricks",
+        "source": "assets/minecraft/textures/block/mossy_stone_bricks.png",
+        "source_sha256": "7c53f60706ac016307445b9da84ec5d216b98f47a5952cd4bb6e067d27dc1a0f",
+        "adapted": false
+      },
+      {
+        "tile": 305,
+        "requested": "mud",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 306,
+        "requested": "mud_bricks",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 307,
+        "requested": "muddy_mangrove_roots",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 308,
+        "requested": "mushroom_stem",
+        "source": "assets/minecraft/textures/block/mushroom_stem.png",
+        "source_sha256": "e8df48d7a7e0c4fbbcbbbda2e1b06e6049e91fb20fa2012d3e8320bef84d05b3",
+        "adapted": false
+      },
+      {
+        "tile": 309,
+        "requested": "netherrack",
+        "source": "assets/minecraft/textures/block/netherrack.png",
+        "source_sha256": "e2d255ee62033e2b2c34210a9722d605da5e44dbb8c0f4edec09f8f31a6674da",
+        "adapted": false
+      },
+      {
+        "tile": 310,
+        "requested": "oak_button",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 311,
+        "requested": "oak_door_bottom",
+        "source": "assets/minecraft/textures/block/oak_door_bottom.png",
+        "source_sha256": "720594071434c10234be06b7fd0d2ecad656767d54823ee127644551ab2fad25",
+        "adapted": false
+      },
+      {
+        "tile": 312,
+        "requested": "oak_door_top",
+        "source": "assets/minecraft/textures/block/oak_door_top.png",
+        "source_sha256": "b4e43dc38980dfc7f3147e2538935dc3c81f903e441dafbba8ff2c1419a70c91",
+        "adapted": false
+      },
+      {
+        "tile": 313,
+        "requested": "oak_fence",
+        "source": "assets/minecraft/textures/block/oak_fence.png",
+        "source_sha256": "683f0bbb017f01f1bbcc31768b0bbd35236952398b5e084b0d780ccb53e2e95e",
+        "adapted": false
+      },
+      {
+        "tile": 314,
+        "requested": "oak_fence_gate",
+        "source": "assets/minecraft/textures/block/oak_fence_gate.png",
+        "source_sha256": "54debdeb4e78180dd6f0141f447c061ceca9870b5c3ad71a5e53d6deb42f2a6b",
+        "adapted": false
+      },
+      {
+        "tile": 315,
+        "requested": "oak_leaves",
+        "source": "assets/minecraft/textures/block/oak_leaves.png",
+        "source_sha256": "a1f55d3b3362b01300e24c3196424bd662b2ad84c354656b7bd2d8145e8ca5e1",
+        "adapted": false
+      },
+      {
+        "tile": 316,
+        "requested": "oak_log_top",
+        "source": "assets/minecraft/textures/block/oak_log_top.png",
+        "source_sha256": "dac6b6d3034babe206405c7dc143b8e128c8015efd1c0382c7290df88588f3f6",
+        "adapted": false
+      },
+      {
+        "tile": 317,
+        "requested": "oak_log",
+        "source": "assets/minecraft/textures/block/oak_log.png",
+        "source_sha256": "5d62f791db78a5e1ff1850ba5c70fad5c87e83c1b955e9892ea495242b11003a",
+        "adapted": false
+      },
+      {
+        "tile": 318,
+        "requested": "oak_pressure_plate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 319,
+        "requested": "oak_shelf",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 320,
+        "requested": "oak_trapdoor",
+        "source": "assets/minecraft/textures/block/oak_trapdoor.png",
+        "source_sha256": "08c11a1f245c5674f3d392ce4fadbf5ffda0e0b5134277168dd0b329b1147024",
+        "adapted": false
+      },
+      {
+        "tile": 321,
+        "requested": "oak_wall_sign",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 322,
+        "requested": "obsidian",
+        "source": "assets/minecraft/textures/block/obsidian.png",
+        "source_sha256": "a18b6c51d603dff7a7e54540b4cee14ba8a7f28102992cb3cc5bf168577fe1a3",
+        "adapted": false
+      },
+      {
+        "tile": 323,
+        "requested": "orange_glazed_terracotta",
+        "source": "assets/minecraft/textures/block/orange_glazed_terracotta.png",
+        "source_sha256": "da4ec09df3a8ad3116779c13e78b4e1ac0369021f99acf106d54936765d09b0f",
+        "adapted": false
+      },
+      {
+        "tile": 324,
+        "requested": "orange_stained_glass_pane",
+        "source": "assets/minecraft/textures/block/glass.png",
+        "source_sha256": "86680c62620dab3af416b508033fc1673e6a77e6007e5a8c6098ad9d034643dc",
+        "adapted": true
+      },
+      {
+        "tile": 325,
+        "requested": "orange_terracotta",
+        "source": "assets/minecraft/textures/block/orange_terracotta.png",
+        "source_sha256": "78a4161ed55dcba25c0b96b249ca96e61cd307f8f5e8c9913a8a5053554e6492",
+        "adapted": false
+      },
+      {
+        "tile": 326,
+        "requested": "orange_tulip",
+        "source": "assets/minecraft/textures/block/orange_tulip.png",
+        "source_sha256": "32863f7da486d5234a6e03589151ebca507e49e2ec34ffcbcda09d888f1ba0b3",
+        "adapted": false
+      },
+      {
+        "tile": 327,
+        "requested": "oxeye_daisy",
+        "source": "assets/minecraft/textures/block/oxeye_daisy.png",
+        "source_sha256": "6037ae8475c5598c42c6013fea6e9bb0c250122b85176417ebca029bdd1cfc66",
+        "adapted": false
+      },
+      {
+        "tile": 328,
+        "requested": "oxidized_copper_trapdoor",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 329,
+        "requested": "oxidized_cut_copper",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 330,
+        "requested": "packed_ice",
+        "source": "assets/minecraft/textures/block/packed_ice.png",
+        "source_sha256": "9245a7725094e9ee3a010bc1204fbcde0386ef5463636e614fd3cf71ffc71d3a",
+        "adapted": false
+      },
+      {
+        "tile": 331,
+        "requested": "packed_mud",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 332,
+        "requested": "peony",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 333,
+        "requested": "pink_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 334,
+        "requested": "pink_petals",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 335,
+        "requested": "pink_tulip",
+        "source": "assets/minecraft/textures/block/pink_tulip.png",
+        "source_sha256": "b2562f91208b76626141458427bb5a8325de0512ab63fd92c637fe8d323a4cb9",
+        "adapted": false
+      },
+      {
+        "tile": 336,
+        "requested": "podzol",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 337,
+        "requested": "pointed_dripstone",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 338,
+        "requested": "polished_andesite",
+        "source": "assets/minecraft/textures/block/polished_andesite.png",
+        "source_sha256": "ff275ade5bac9302f32703e9a70d05d7a083f15de3cbcd0179d57149c5a1ee0a",
+        "adapted": false
+      },
+      {
+        "tile": 339,
+        "requested": "polished_basalt",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 340,
+        "requested": "polished_deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 341,
+        "requested": "polished_diorite",
+        "source": "assets/minecraft/textures/block/polished_diorite.png",
+        "source_sha256": "fee0fe7f714b8afd130771786c72dda3ca4872ee8a9e0122def667973a0dd5b9",
+        "adapted": false
+      },
+      {
+        "tile": 342,
+        "requested": "polished_granite",
+        "source": "assets/minecraft/textures/block/polished_granite.png",
+        "source_sha256": "26bf1d7a1480389a0caadd790b360e88e905af1c019a6b5f6059245014555d91",
+        "adapted": false
+      },
+      {
+        "tile": 343,
+        "requested": "polished_tuff",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 344,
+        "requested": "poppy",
+        "source": "assets/minecraft/textures/block/poppy.png",
+        "source_sha256": "888dc51ab386a8e1e1cd15be90162a6eeeaf64e146bc99cded683ea65e29a9e8",
+        "adapted": false
+      },
+      {
+        "tile": 345,
+        "requested": "potatoes",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 346,
+        "requested": "potted_allium",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 347,
+        "requested": "potted_azure_bluet",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 348,
+        "requested": "potted_birch_sapling",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 349,
+        "requested": "potted_blue_orchid",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 350,
+        "requested": "potted_cactus",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 351,
+        "requested": "potted_dandelion",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 352,
+        "requested": "potted_dead_bush",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 353,
+        "requested": "potted_oxeye_daisy",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 354,
+        "requested": "potted_poppy",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 355,
+        "requested": "potted_red_tulip",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 356,
+        "requested": "potted_white_tulip",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 357,
+        "requested": "powder_snow",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 358,
+        "requested": "pumpkin",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 359,
+        "requested": "purple_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 360,
+        "requested": "quartz_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 361,
+        "requested": "quartz_block_side",
+        "source": "assets/minecraft/textures/block/quartz_block_side.png",
+        "source_sha256": "4a2dbfd22ab34ea5c96bb5b3c229cde5c572eb14ee78180632c59e324dababf1",
+        "adapted": false
+      },
+      {
+        "tile": 362,
+        "requested": "rail",
+        "source": "assets/minecraft/textures/block/rail.png",
+        "source_sha256": "85cb818c2030632d9dbf11c3754e78231de15d692cd69b0da0c1d31595058d89",
+        "adapted": false
+      },
+      {
+        "tile": 363,
+        "requested": "raw_copper_block",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 364,
+        "requested": "raw_iron_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 365,
+        "requested": "red_candle",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 366,
+        "requested": "red_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 367,
+        "requested": "red_concrete",
+        "source": "assets/minecraft/textures/block/red_concrete.png",
+        "source_sha256": "126ee0cd5ac1a44a681d67c312dbfbaa51ea06f2bba9795b9ad46cb8127dcb7d",
+        "adapted": false
+      },
+      {
+        "tile": 368,
+        "requested": "red_glazed_terracotta",
+        "source": "assets/minecraft/textures/block/red_glazed_terracotta.png",
+        "source_sha256": "b021b0af6d82dd062b392cf92206f47461e3729bdb1872cb65c85176e50b9dc5",
+        "adapted": false
+      },
+      {
+        "tile": 369,
+        "requested": "red_mushroom",
+        "source": "assets/minecraft/textures/block/red_mushroom.png",
+        "source_sha256": "c14fb474d351d5eccdf108a99cffe877b01510af47fe54f3c680a93cd0f8bdcf",
+        "adapted": false
+      },
+      {
+        "tile": 370,
+        "requested": "red_mushroom_block",
+        "source": "assets/minecraft/textures/block/red_mushroom_block.png",
+        "source_sha256": "04860ce07af4432ba75a35f2e462e32142d6876dab6f280b8960aa94bd12cba6",
+        "adapted": false
+      },
+      {
+        "tile": 371,
+        "requested": "red_sand",
+        "source": "assets/minecraft/textures/block/red_sand.png",
+        "source_sha256": "55fa15afaf9002f81505cab3f95749ef38b0e59e1ee46de302fe97c34206180e",
+        "adapted": false
+      },
+      {
+        "tile": 372,
+        "requested": "red_sandstone",
+        "source": "assets/minecraft/textures/block/red_sandstone.png",
+        "source_sha256": "0097f8615cbfdf17e86e888d52191f1d6d9d6542bc1b2f64afdf36894ab84327",
+        "adapted": false
+      },
+      {
+        "tile": 373,
+        "requested": "red_terracotta",
+        "source": "assets/minecraft/textures/block/red_terracotta.png",
+        "source_sha256": "ec35d3821a13706d38422e6dfbb0d3857b214beb3c7eccffdb44e0d6b502f27c",
+        "adapted": false
+      },
+      {
+        "tile": 374,
+        "requested": "red_tulip",
+        "source": "assets/minecraft/textures/block/red_tulip.png",
+        "source_sha256": "1c4e7f80afa2b2af5e46d3b5895c35e06588350285b58abb2d74affa5fe90ad9",
+        "adapted": false
+      },
+      {
+        "tile": 375,
+        "requested": "redstone_ore",
+        "source": "assets/minecraft/textures/block/redstone_ore.png",
+        "source_sha256": "bb9d8b5412dab5064d641d6d00980c053ba29b1a67ecfc005c51759fd0ba3fbd",
+        "adapted": false
+      },
+      {
+        "tile": 376,
+        "requested": "redstone_torch",
+        "source": "assets/minecraft/textures/block/redstone_torch.png",
+        "source_sha256": "7cfb849db88a3666eec0a86ab6fc8db041af37131fac0cb5e4118b678c821782",
+        "adapted": false
+      },
+      {
+        "tile": 377,
+        "requested": "redstone_wire",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 378,
+        "requested": "reinforced_deepslate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 379,
+        "requested": "repeater",
+        "source": "assets/minecraft/textures/block/repeater.png",
+        "source_sha256": "c1f9f66bd9343a4494896d55e21e9107d9a3a6e79b247b0dc25bd5155c01cd5f",
+        "adapted": false
+      },
+      {
+        "tile": 380,
+        "requested": "rooted_dirt",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 381,
+        "requested": "rose_bush",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 382,
+        "requested": "sand",
+        "source": "assets/minecraft/textures/block/sand.png",
+        "source_sha256": "83ffe2595b7d0ef4c146c16b258534e61981dade7c5562cc9b34798415c6f15e",
+        "adapted": false
+      },
+      {
+        "tile": 383,
+        "requested": "sandstone",
+        "source": "assets/minecraft/textures/block/sandstone.png",
+        "source_sha256": "d0df5afd6a15a8abe36f50b69cd53ccb91f9d8e538c6cf2c092f5c63e81d735a",
+        "adapted": false
+      },
+      {
+        "tile": 384,
+        "requested": "sandstone_top",
+        "source": "assets/minecraft/textures/block/sandstone_top.png",
+        "source_sha256": "466ad33ee379807380d14172c174e5b8efc271aa2ffb869d245b95571cfba360",
+        "adapted": false
+      },
+      {
+        "tile": 385,
+        "requested": "sandstone_bottom",
+        "source": "assets/minecraft/textures/block/sandstone_bottom.png",
+        "source_sha256": "713a64d9e74a6f1b7d5e920bc814175f8ec09e5c879966b3ee899813473c7922",
+        "adapted": false
+      },
+      {
+        "tile": 386,
+        "requested": "sculk",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 387,
+        "requested": "sculk_catalyst",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 388,
+        "requested": "sculk_sensor",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 389,
+        "requested": "sculk_shrieker",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 390,
+        "requested": "sculk_vein",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 391,
+        "requested": "sea_lantern",
+        "source": "assets/minecraft/textures/block/sea_lantern.png",
+        "source_sha256": "434d1fbdca65509ddbe0c0e1a46a49506682a421127929f8d3584c0cf79cf941",
+        "adapted": false
+      },
+      {
+        "tile": 392,
+        "requested": "sea_pickle",
+        "source": "assets/minecraft/textures/block/sea_pickle.png",
+        "source_sha256": "fca309b80a8dc220114cd8a9f39ac878873111aaf706ee456ea5486968b03e1b",
+        "adapted": false
+      },
+      {
+        "tile": 393,
+        "requested": "seagrass",
+        "source": "assets/minecraft/textures/block/seagrass.png",
+        "source_sha256": "4c6d5399b8668f34a83917b3c0323736009d7755dc1b04adf8fd75b7960fc63b",
+        "adapted": false
+      },
+      {
+        "tile": 394,
+        "requested": "short_dry_grass",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 395,
+        "requested": "short_grass",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 396,
+        "requested": "small_amethyst_bud",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 397,
+        "requested": "small_dripleaf",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 398,
+        "requested": "smithing_table",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 399,
+        "requested": "smooth_basalt",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 400,
+        "requested": "smooth_sandstone",
+        "source": "assets/minecraft/textures/block/sandstone.png",
+        "source_sha256": "d0df5afd6a15a8abe36f50b69cd53ccb91f9d8e538c6cf2c092f5c63e81d735a",
+        "adapted": true
+      },
+      {
+        "tile": 401,
+        "requested": "smooth_stone",
+        "source": "assets/minecraft/textures/block/smooth_stone.png",
+        "source_sha256": "29df094e7b3d9e9bdc39314910363834bf4218a47d7df4bd43d7f8d3af425a1b",
+        "adapted": false
+      },
+      {
+        "tile": 402,
+        "requested": "snow",
+        "source": "assets/minecraft/textures/block/snow.png",
+        "source_sha256": "f7adccf65ce3660632c41fa7fb4c95dbc3348840e2eeeadbcd0a4a32b11447e2",
+        "adapted": false
+      },
+      {
+        "tile": 403,
+        "requested": "snow_block",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 404,
+        "requested": "spawner",
+        "source": "assets/minecraft/textures/block/spawner.png",
+        "source_sha256": "2443a3bfb4656dbcc6f8aeb23c614d9701cda5db35e1b7916329487abda76d2a",
+        "adapted": false
+      },
+      {
+        "tile": 405,
+        "requested": "spore_blossom",
+        "source": "assets/minecraft/textures/block/coal_ore.png",
+        "source_sha256": "71605ac67c7103a0ac2b491dc1a0a3e16d7f925f0630ea2730971b7453d9ab09",
+        "adapted": true
+      },
+      {
+        "tile": 406,
+        "requested": "spruce_door_bottom",
+        "source": "assets/minecraft/textures/block/spruce_door_bottom.png",
+        "source_sha256": "c28236ff1892dd43e8d592487e9d6eb3cc94e68edf71799824a9bfc0a419692a",
+        "adapted": false
+      },
+      {
+        "tile": 407,
+        "requested": "spruce_door_top",
+        "source": "assets/minecraft/textures/block/spruce_door_top.png",
+        "source_sha256": "359648d33682fc9d6851a22d02c427ffae6f0c0018b0bae143eec676a41a8d80",
+        "adapted": false
+      },
+      {
+        "tile": 408,
+        "requested": "spruce_fence",
+        "source": "assets/minecraft/textures/block/spruce_fence.png",
+        "source_sha256": "1d3faf6dae11d367e41a929399d51b8274d4db759723097fa3c80891fd5e3e19",
+        "adapted": false
+      },
+      {
+        "tile": 409,
+        "requested": "spruce_leaves",
+        "source": "assets/minecraft/textures/block/spruce_leaves.png",
+        "source_sha256": "281aa50f744136056ec6361f6e27163295e41d0fc05d167f0ea7f5a7f0c5f31f",
+        "adapted": false
+      },
+      {
+        "tile": 410,
+        "requested": "spruce_log_top",
+        "source": "assets/minecraft/textures/block/spruce_log_top.png",
+        "source_sha256": "d77e62b36aca36a9d14cbeb2f486e26369c91f84813745da3da38700b27bb54c",
+        "adapted": false
+      },
+      {
+        "tile": 411,
+        "requested": "spruce_log",
+        "source": "assets/minecraft/textures/block/spruce_log.png",
+        "source_sha256": "39917960dca7b978320f75558a63ec212a39ec87d2aedd3b91cde8bd95675e9a",
+        "adapted": false
+      },
+      {
+        "tile": 412,
+        "requested": "spruce_planks",
+        "source": "assets/minecraft/textures/block/spruce_planks.png",
+        "source_sha256": "f9151a1206df72b201766b2b5841c80588acc4c305f567965469a498553650a4",
+        "adapted": false
+      },
+      {
+        "tile": 413,
+        "requested": "spruce_sapling",
+        "source": "assets/minecraft/textures/block/spruce_sapling.png",
+        "source_sha256": "c2ced29000f1d5f1dad0bcece848ffc0ae2cc0df082927c8142ffdf7fc648dc7",
+        "adapted": false
+      },
+      {
+        "tile": 414,
+        "requested": "spruce_trapdoor",
+        "source": "assets/minecraft/textures/block/spruce_trapdoor.png",
+        "source_sha256": "b1e3eb8cd516c8e193aad8c91506083da85cddb106026ed50d6342b339c8aa1a",
+        "adapted": false
+      },
+      {
+        "tile": 415,
+        "requested": "sticky_piston",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 416,
+        "requested": "stone",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": false
+      },
+      {
+        "tile": 417,
+        "requested": "stone_bricks",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": false
+      },
+      {
+        "tile": 418,
+        "requested": "stone_button",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 419,
+        "requested": "stone_pressure_plate",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 420,
+        "requested": "stonecutter",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 421,
+        "requested": "stripped_oak_log",
+        "source": "assets/minecraft/textures/block/stripped_oak_log.png",
+        "source_sha256": "f4c5b151facd81dbc9249fbc284f4a2176cfad4157a50b6ee621f8a5051eca3c",
+        "adapted": false
+      },
+      {
+        "tile": 422,
+        "requested": "stripped_oak_log_top",
+        "source": "assets/minecraft/textures/block/stripped_oak_log_top.png",
+        "source_sha256": "3be633a5ee433ea03eb69ec68ee19586e0cfd385bf166099875c672f40d2bd87",
+        "adapted": false
+      },
+      {
+        "tile": 423,
+        "requested": "stripped_spruce_log_top",
+        "source": "assets/minecraft/textures/block/stripped_spruce_log_top.png",
+        "source_sha256": "621174a5fbf81b0002de4c3913b4ed43e6bbc49980d2659bf4d7b9b696d01ada",
+        "adapted": false
+      },
+      {
+        "tile": 424,
+        "requested": "stripped_spruce_log",
+        "source": "assets/minecraft/textures/block/stripped_spruce_log.png",
+        "source_sha256": "2c7735c22fc5f08e991eaac2aa95eb3484a8579a249cc17fcf5ad0d596cff387",
+        "adapted": false
+      },
+      {
+        "tile": 425,
+        "requested": "sugar_cane",
+        "source": "assets/minecraft/textures/block/sugar_cane.png",
+        "source_sha256": "8e77a88f18d4ef2d03cadac1aefe41599af3b831c5967bb4e3a8b6190e99e91b",
+        "adapted": false
+      },
+      {
+        "tile": 426,
+        "requested": "sunflower",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 427,
+        "requested": "suspicious_gravel",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 428,
+        "requested": "suspicious_sand",
+        "source": "assets/minecraft/textures/block/sandstone.png",
+        "source_sha256": "d0df5afd6a15a8abe36f50b69cd53ccb91f9d8e538c6cf2c092f5c63e81d735a",
+        "adapted": true
+      },
+      {
+        "tile": 429,
+        "requested": "sweet_berry_bush",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 430,
+        "requested": "tall_dry_grass",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 431,
+        "requested": "tall_grass",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 432,
+        "requested": "tall_seagrass",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 433,
+        "requested": "terracotta",
+        "source": "assets/minecraft/textures/block/terracotta.png",
+        "source_sha256": "0e0364203f50cee98107898b20d160e7e635c5ccde74589f215a77e069a19d13",
+        "adapted": false
+      },
+      {
+        "tile": 434,
+        "requested": "tnt",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 435,
+        "requested": "torch",
+        "source": "assets/minecraft/textures/block/torch.png",
+        "source_sha256": "a96ca20deb127d6f437d5da41dd9bd442f2b244ee309b6d0431e2294d735a4cc",
+        "adapted": false
+      },
+      {
+        "tile": 436,
+        "requested": "trial_spawner",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 437,
+        "requested": "tripwire",
+        "source": "assets/minecraft/textures/block/tripwire.png",
+        "source_sha256": "88e6592f2218bfc734bdb6f98d9e3bfc1d0858c2b3e248d97e7a8a6bb169048c",
+        "adapted": false
+      },
+      {
+        "tile": 438,
+        "requested": "tripwire_hook",
+        "source": "assets/minecraft/textures/block/tripwire_hook.png",
+        "source_sha256": "c03a9841c3bc5a15af05a275cc83007fa57e9ac82b914f0d91c1156371d8190f",
+        "adapted": false
+      },
+      {
+        "tile": 439,
+        "requested": "tube_coral",
+        "source": "assets/minecraft/textures/block/tube_coral.png",
+        "source_sha256": "ac0e2f80516cbacb78442733da5eb3847e9a666f09054a357e3599a11b4384f3",
+        "adapted": false
+      },
+      {
+        "tile": 440,
+        "requested": "tube_coral_block",
+        "source": "assets/minecraft/textures/block/tube_coral_block.png",
+        "source_sha256": "8ed3f7d5800ff41893d2ab6672e1d3a398f5322d9dff9f23ac7756ae07ecb000",
+        "adapted": false
+      },
+      {
+        "tile": 441,
+        "requested": "tube_coral_fan",
+        "source": "assets/minecraft/textures/block/tube_coral_fan.png",
+        "source_sha256": "4fe0cd20689b7152c28ba44e5cbc011b6b8c756237fa557f0e90193b77d0a885",
+        "adapted": false
+      },
+      {
+        "tile": 442,
+        "requested": "tube_coral_wall_fan",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 443,
+        "requested": "tuff",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 444,
+        "requested": "tuff_bricks",
+        "source": "assets/minecraft/textures/block/stone_bricks.png",
+        "source_sha256": "f68c45a9f2886276b2fd0501e282a9c4645ce68cadb86396315ca3950618576d",
+        "adapted": true
+      },
+      {
+        "tile": 445,
+        "requested": "vault",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 446,
+        "requested": "vine",
+        "source": "assets/minecraft/textures/block/vine.png",
+        "source_sha256": "7e599b458d659443929412f3834f32fff28371a06fd4945552e25bafac732c3d",
+        "adapted": false
+      },
+      {
+        "tile": 447,
+        "requested": "wall_torch",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 448,
+        "requested": "water",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 449,
+        "requested": "water_cauldron",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 450,
+        "requested": "chiseled_copper",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 451,
+        "requested": "copper_bulb",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 452,
+        "requested": "waxed_copper_door_bottom",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 453,
+        "requested": "waxed_copper_door_top",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 454,
+        "requested": "copper_grate",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 455,
+        "requested": "cut_copper",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 456,
+        "requested": "exposed_copper_bulb",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 457,
+        "requested": "oxidized_chiseled_copper",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 458,
+        "requested": "oxidized_copper",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 459,
+        "requested": "oxidized_copper_bulb",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 460,
+        "requested": "waxed_oxidized_copper_door_bottom",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 461,
+        "requested": "waxed_oxidized_copper_door_top",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 462,
+        "requested": "oxidized_copper_grate",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 463,
+        "requested": "weathered_copper_bulb",
+        "source": "assets/minecraft/textures/block/iron_block.png",
+        "source_sha256": "a1301afaacbd92842c1408e27344c684a0005d765497041ff00632a001f8dca2",
+        "adapted": true
+      },
+      {
+        "tile": 464,
+        "requested": "wheat_stage_0",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 465,
+        "requested": "wheat_stage_1",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 466,
+        "requested": "wheat_stage_2",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 467,
+        "requested": "wheat_stage_7",
+        "source": "assets/minecraft/textures/block/stone.png",
+        "source_sha256": "d27ecca3b3db5f70ad64eb8eceb664a38af7e895a0243fe22d927e196d0f1db6",
+        "adapted": true
+      },
+      {
+        "tile": 468,
+        "requested": "white_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 469,
+        "requested": "white_concrete",
+        "source": "assets/minecraft/textures/block/white_concrete.png",
+        "source_sha256": "0981c3e8591137deff5de76b663399f18291eddb6ee45e95e7d29accf5eaea50",
+        "adapted": false
+      },
+      {
+        "tile": 470,
+        "requested": "white_stained_glass",
+        "source": "assets/minecraft/textures/block/white_stained_glass.png",
+        "source_sha256": "9aacb7d5eb781b19ab294386a22154e7ef5b43ecae93eca2fa3ba29fea92bd1d",
+        "adapted": false
+      },
+      {
+        "tile": 471,
+        "requested": "white_stained_glass_pane",
+        "source": "assets/minecraft/textures/block/glass.png",
+        "source_sha256": "86680c62620dab3af416b508033fc1673e6a77e6007e5a8c6098ad9d034643dc",
+        "adapted": true
+      },
+      {
+        "tile": 472,
+        "requested": "white_terracotta",
+        "source": "assets/minecraft/textures/block/white_terracotta.png",
+        "source_sha256": "9943590e1b62a0331f0e9084d82ce47dcff3f9869ada9204889e227deb69ae41",
+        "adapted": false
+      },
+      {
+        "tile": 473,
+        "requested": "white_tulip",
+        "source": "assets/minecraft/textures/block/white_tulip.png",
+        "source_sha256": "3c890720a6db32b2b517595da229f86f0e383ef240b6eab946cbacadfe649ae5",
+        "adapted": false
+      },
+      {
+        "tile": 474,
+        "requested": "white_wool",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": false
+      },
+      {
+        "tile": 475,
+        "requested": "wildflowers",
+        "source": "assets/minecraft/textures/block/grass.png",
+        "source_sha256": "c388ce9a98c7b15bc48d83b805ca4f8fd352e55ba1d6c55cff6464e01e288618",
+        "adapted": true
+      },
+      {
+        "tile": 476,
+        "requested": "yellow_carpet",
+        "source": "assets/minecraft/textures/block/white_wool.png",
+        "source_sha256": "1aaaa4832a737724b17f212ddffe8f71328c5c7af11c30d16a3530fc4494997f",
+        "adapted": true
+      },
+      {
+        "tile": 477,
+        "requested": "yellow_glazed_terracotta",
+        "source": "assets/minecraft/textures/block/yellow_glazed_terracotta.png",
+        "source_sha256": "138074286723de8cfa90efdd703234b70440249def535deabf6fa6d456813f73",
+        "adapted": false
+      },
+      {
+        "tile": 478,
+        "requested": "yellow_stained_glass_pane",
+        "source": "assets/minecraft/textures/block/glass.png",
+        "source_sha256": "86680c62620dab3af416b508033fc1673e6a77e6007e5a8c6098ad9d034643dc",
+        "adapted": true
+      },
+      {
+        "tile": 479,
+        "requested": "yellow_terracotta",
+        "source": "assets/minecraft/textures/block/yellow_terracotta.png",
+        "source_sha256": "75217e8f423f6c80a4c2972b1f9c44c1bfc284c7025f3ba2b76dd995c8a610dc",
+        "adapted": false
+      },
+      {
+        "tile": 480,
+        "requested": "yellow_wool",
+        "source": "assets/minecraft/textures/block/yellow_wool.png",
+        "source_sha256": "e8c5c7736c208440e2f022ea7f7d9dedb759ee7a6a3562def0ad31faaa8521d3",
+        "adapted": false
+      }
+    ],
+    "adaptations": "Tinted missing recent-material textures from community stone, wool, iron and foliage; atlas packing and original shape descriptions."
+  },
+  "files": {
+    "city.bin": "881a6afd20d4a74420ba0fc1b5eefd33b9305f7060ffa3adaad7b2d8b437b75c",
+    "city.json": "d3a06ebf78eabca497e596462597b0c10ef0fb2315ed19c6010cf48c737c0219",
+    "city-atlas.png": "710513e41061f78055f780e66b906b83d4b3904d6ba96be2b5928da0fe039ea6"
+  }
+}

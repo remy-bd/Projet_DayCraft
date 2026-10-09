@@ -1,0 +1,24 @@
+   Compiling voxel-rust v1.12.0 (C:\Users\debra\Documents\Codex\2026-10-06\fait-un-minecraft-3d-ultra-complet\outputs\voxel-rust)
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 6.46s
+     Running unittests src\main.rs (C:\Users\debra\Documents\Codex\2026-10-06\fait-un-minecraft-3d-ultra-complet\work\target\debug\deps\voxel_rust-505b6a1070e8d407.exe)
+
+running 1 test
+test render::tests::imported_moss_is_opaque_and_flowers_never_hide_terrain ... FAILED
+
+failures:
+
+---- render::tests::imported_moss_is_opaque_and_flowers_never_hide_terrain stdout ----
+
+thread 'render::tests::imported_moss_is_opaque_and_flowers_never_hide_terrain' (18612) panicked at src\render.rs:2704:25:
+assertion `left == right` failed: moss_block texture has a hole
+  left: 0
+ right: 255
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+
+
+failures:
+    render::tests::imported_moss_is_opaque_and_flowers_never_hide_terrain
+
+test result: FAILED. 0 passed; 1 failed; 0 ignored; 0 measured; 115 filtered out; finished in 0.29s
+
+error: test failed, to rerun pass `--bin voxel-rust`

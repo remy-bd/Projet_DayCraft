@@ -1,0 +1,51 @@
+{
+  "version": "1.8.0",
+  "binary_sha256": "7fdcba2ea26f41971b48b07d6a9f6a31fb80f2a92e483e901ebf9cd9064cbdba",
+  "unit_tests": 76,
+  "clippy": "passed",
+  "render_scenes": 67,
+  "delivered_binary_checks": 13,
+  "requirements": [
+    {
+      "name": "48 distinct stereo sounds decoded by the native program",
+      "status": "passed"
+    },
+    {
+      "name": "Seven downloaded textured and animated mob models",
+      "status": "passed"
+    },
+    {
+      "name": "Plains and desert village generation with villagers and golem",
+      "status": "passed"
+    },
+    {
+      "name": "Loot chests, transactions, trades and persisted empty chests",
+      "status": "passed"
+    },
+    {
+      "name": "Breeding, baby growth, hostile combat and physical mob loot",
+      "status": "passed"
+    },
+    {
+      "name": "Source buckets and full-height door collision",
+      "status": "passed"
+    },
+    {
+      "name": "GPU projected sun shadows and water/effects depth occlusion",
+      "status": "passed"
+    },
+    {
+      "name": "Inventory, input, weapon and reload regressions",
+      "status": "passed"
+    },
+    {
+      "name": "Legacy saves preserved unchanged during verification",
+      "status": "passed"
+    }
+  ],
+  "limits": [
+    "No subjective speaker/headphone listening test",
+    "No long manual session or verification on other graphics cards",
+    "Mob movement is simple; instant furnace recipes and no tool durability"
+  ]
+}

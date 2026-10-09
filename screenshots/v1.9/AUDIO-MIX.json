@@ -1,0 +1,74 @@
+{
+  "ak74u": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.11,
+    "playback_gain": 0.64,
+    "mix_peak": 0.50412109375
+  },
+  "ak74": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.1,
+    "playback_gain": 0.64,
+    "mix_peak": 0.51044921875
+  },
+  "akm": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.12,
+    "playback_gain": 0.64,
+    "mix_peak": 0.5563281250000001
+  },
+  "m4a1": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.085,
+    "playback_gain": 0.64,
+    "mix_peak": 0.48130859375
+  },
+  "famas": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.075,
+    "playback_gain": 0.64,
+    "mix_peak": 0.48333984375000005
+  },
+  "m16a4": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.095,
+    "playback_gain": 0.64,
+    "mix_peak": 0.445859375
+  },
+  "m79": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.9,
+    "playback_gain": 0.64,
+    "mix_peak": 0.48189453125000004
+  },
+  "m200": {
+    "repeated_shots": 30,
+    "cadence_seconds": 1.45,
+    "playback_gain": 0.98,
+    "mix_peak": 0.9408514404296875
+  },
+  "tundra": {
+    "repeated_shots": 30,
+    "cadence_seconds": 1.25,
+    "playback_gain": 0.98,
+    "mix_peak": 0.9372027587890625
+  },
+  "aw50": {
+    "repeated_shots": 30,
+    "cadence_seconds": 1.65,
+    "playback_gain": 0.98,
+    "mix_peak": 0.946085205078125
+  },
+  "svd": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.3,
+    "playback_gain": 0.85,
+    "mix_peak": 0.9168991088867187
+  },
+  "mp5k": {
+    "repeated_shots": 30,
+    "cadence_seconds": 0.075,
+    "playback_gain": 0.64,
+    "mix_peak": 0.38095703125
+  }
+}

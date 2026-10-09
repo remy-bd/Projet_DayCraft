@@ -1,0 +1,71 @@
+[
+  {
+    "Args": [
+      "--screen",
+      "village"
+    ],
+    "Name": "village"
+  },
+  {
+    "Args": [
+      "--screen",
+      "desert"
+    ],
+    "Name": "desert"
+  },
+  {
+    "Args": [
+      "--screen",
+      "village",
+      "--no-shaders"
+    ],
+    "Name": "classic-village"
+  },
+  {
+    "Args": [
+      "--npc-checks"
+    ],
+    "Name": "npc-defense"
+  },
+  {
+    "Args": [
+      "--screen",
+      "church"
+    ],
+    "Name": "church"
+  },
+  {
+    "Args": [
+      "--screen",
+      "forge"
+    ],
+    "Name": "forge"
+  },
+  {
+    "Args": [
+      "--screen",
+      "inn"
+    ],
+    "Name": "inn"
+  },
+  {
+    "Args": [
+      "--grenade-checks"
+    ],
+    "Name": "grenade-villagers"
+  },
+  {
+    "Args": [
+      "--v110-checks"
+    ],
+    "Name": "v110"
+  },
+  {
+    "Args": [
+      "--v110-checks",
+      "--size",
+      "960x600"
+    ],
+    "Name": "v110-small"
+  }
+]

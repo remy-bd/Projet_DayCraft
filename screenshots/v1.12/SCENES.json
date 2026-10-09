@@ -1,0 +1,86 @@
+[
+  {
+    "Name": "spawn-0",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "0"
+    ]
+  },
+  {
+    "Name": "spawn-1",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "1"
+    ]
+  },
+  {
+    "Name": "spawn-2",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "2"
+    ]
+  },
+  {
+    "Name": "spawn-3",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "3"
+    ]
+  },
+  {
+    "Name": "spawn-4",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "4"
+    ]
+  },
+  {
+    "Name": "spawn-5",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "5"
+    ]
+  },
+  {
+    "Name": "title",
+    "Args": [
+      "--city-checks",
+      "--screen",
+      "title"
+    ]
+  },
+  {
+    "Name": "creative",
+    "Args": [
+      "--city-checks",
+      "--screen",
+      "inventory",
+      "--inventory-tab",
+      "0",
+      "--inventory-page",
+      "1"
+    ]
+  },
+  {
+    "Name": "city-classic",
+    "Args": [
+      "--city-checks",
+      "--spawn",
+      "4",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "legacy-gameplay",
+    "Args": [
+      "--legacy-fixture",
+      "--v110-checks"
+    ]
+  }
+]

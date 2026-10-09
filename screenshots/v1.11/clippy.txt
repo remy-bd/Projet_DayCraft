@@ -1,0 +1,2 @@
+    Checking voxel-rust v1.11.0 (C:\Users\debra\Documents\Codex\2026-10-06\fait-un-minecraft-3d-ultra-complet\outputs\voxel-rust)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 1.16s

@@ -1,0 +1,311 @@
+{
+  "retrieved": "2026-10-08",
+  "used_in_game": true,
+  "models": [
+    {
+      "game_weapon": "AK-74U",
+      "key": "ak74u",
+      "original_title": "AKS-74U",
+      "author": "Slava Izvekov",
+      "author_url": "https://sketchfab.com/guantanamera",
+      "source": "https://sketchfab.com/3d-models/aks-74u-b5c5cab2c4ac4893a07a1fd8ac6cb913",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 12321,
+        "Magazine": 1290,
+        "Barrel": 0,
+        "Bolt": 681,
+        "Scope": 0
+      },
+      "sha256": {
+        "ak74u-icon.png": "4107ff894ec089eaf3aca3b64220bccd56c44cfe9061d803cb556e77dfea5002",
+        "ak74u.mtl": "d9ff3bac42b5f5d92ca29c715b8d4fbf39f8814d2eac347ed9cee61edb3de815",
+        "ak74u.obj": "13f88b70f9674fdf72dddcd368a28c06d39d1b08f85e2114d74e98b10851a2d6",
+        "ak74u.png": "0fc4e6c26a025b5855b9f1760f73be272914e0fcfed13cd9c2be6275f8a4f86c"
+      }
+    },
+    {
+      "game_weapon": "AK-74",
+      "key": "ak74",
+      "original_title": "AK-74 (Wooden Furniture) Gameready Free",
+      "author": "rwroclav",
+      "author_url": "https://sketchfab.com/rwroclav",
+      "source": "https://sketchfab.com/3d-models/ak-74-wooden-furniture-gameready-free-87a76b087e044b60ba9e9bf7ae814fb6",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 14303,
+        "Magazine": 1978,
+        "Barrel": 0,
+        "Bolt": 244,
+        "Scope": 0
+      },
+      "sha256": {
+        "ak74-icon.png": "c16c0fd5ad03a63b66ee34b645b7952e1d5da069cce572d0b336959036395099",
+        "ak74.mtl": "4669969cc3fc8590994983455abaa8274415201b625f84f4fc40fbc594a7200a",
+        "ak74.obj": "8e9198416b2543b1461229ad03b26152b09f2b954c89703e1fff26faec24409c",
+        "ak74.png": "19600ef7d6bc7805fcb673972f7640e0ccb5f16c23ca727a4bd8c07b76ae501d",
+        "ak74u-icon.png": "4107ff894ec089eaf3aca3b64220bccd56c44cfe9061d803cb556e77dfea5002",
+        "ak74u.mtl": "d9ff3bac42b5f5d92ca29c715b8d4fbf39f8814d2eac347ed9cee61edb3de815",
+        "ak74u.obj": "13f88b70f9674fdf72dddcd368a28c06d39d1b08f85e2114d74e98b10851a2d6",
+        "ak74u.png": "0fc4e6c26a025b5855b9f1760f73be272914e0fcfed13cd9c2be6275f8a4f86c"
+      }
+    },
+    {
+      "game_weapon": "AKM",
+      "key": "akm",
+      "original_title": "AKM",
+      "author": "Armored Wave",
+      "author_url": "https://sketchfab.com/armoredwave",
+      "source": "https://sketchfab.com/3d-models/akm-fe8b79ae8a8142fb9ba706912c6b9df8",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 17944,
+        "Magazine": 1660,
+        "Barrel": 0,
+        "Bolt": 0,
+        "Scope": 0
+      },
+      "sha256": {
+        "akm-icon.png": "fc1d8b3ab694a8dc295f910537d90ddb8336dce324af584a094e3262dde57c68",
+        "akm.mtl": "c79c9a6c279111b47ec87db9cf5c73f672ddc65162cb66d1466fd69a068c13b0",
+        "akm.obj": "454648733b4e12f7f401d29bf74fe83f7ad6e6463446484338a77025e75adf87",
+        "akm.png": "1851ce10cbb993c47ec1c884f5ab367b80a2b14dd83b7f02cdcc9130a7a1b161"
+      }
+    },
+    {
+      "game_weapon": "M4-A1",
+      "key": "m4a1",
+      "original_title": "M4A1",
+      "author": "TORI106",
+      "author_url": "https://sketchfab.com/TORI106",
+      "source": "https://sketchfab.com/3d-models/m4a1-33107f38b23c45cc8103768c0e961cdf",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 8549,
+        "Magazine": 621,
+        "Barrel": 0,
+        "Bolt": 0,
+        "Scope": 0
+      },
+      "sha256": {
+        "m4a1-icon.png": "c110138aae1cec8f638e243c66e4619934be242d9bf024c96a37b625c96db48b",
+        "m4a1.mtl": "9850b5cdb1d3ba3e6015f9765ae214d921d7425758a096005a816986d522b33c",
+        "m4a1.obj": "a6da6ac7057cc4eb7fdbc4203d75bd9a33154cc329d5838c004fdbf0ae0c1665",
+        "m4a1.png": "fb23789e4c6c509bb6da1ee57c11d685ea14e6c615b1577d1eeb71268df8e3e8"
+      }
+    },
+    {
+      "game_weapon": "FAMAS",
+      "key": "famas",
+      "original_title": "FAMAS",
+      "author": "Frostoise",
+      "author_url": "https://sketchfab.com/Frostoise",
+      "source": "https://sketchfab.com/3d-models/famas-7d35e14ad8874d148ce9cc46e5765a6b",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "BLEND",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 22150,
+        "Magazine": 1868,
+        "Barrel": 0,
+        "Bolt": 0,
+        "Scope": 0
+      },
+      "sha256": {
+        "famas-icon.png": "1f8386bb3022d8c0240d5df4fa06c95f0d8ba76a63b40a506cb9b3387cc2d536",
+        "famas.mtl": "77916bd81d6d03a42f63ccb3101b4f4561d26f15fead24496c42025cbe359864",
+        "famas.obj": "3b64cb159a562c409a1845c36086c9dfdbc2859dc67484eeb4e54119b7590e97",
+        "famas.png": "fba55ca71bfa1d7fab09391ed3bf1e7fd010680bf629ae98a1471404f6b74976"
+      }
+    },
+    {
+      "game_weapon": "M16-A4",
+      "key": "m16a4",
+      "original_title": "low-poly M16A4 [remade from scratch]",
+      "author": "notcplkerry",
+      "author_url": "https://sketchfab.com/notcplkerry",
+      "source": "https://sketchfab.com/3d-models/low-poly-m16a4-remade-from-scratch-ccfef9f2093c46ba95e71d4a0f417c74",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 12431,
+        "Magazine": 1088,
+        "Barrel": 0,
+        "Bolt": 1327,
+        "Scope": 0
+      },
+      "sha256": {
+        "m16a4-icon.png": "f7942d77624c499e40e65999d85cb6f11e389b18f32561627b2d894c96bbcd3e",
+        "m16a4.mtl": "da44edbf98d968bacbba61559d1b5032cff33d6822e5a23655ddfd7d39706273",
+        "m16a4.obj": "390aeebe022bc02336effbe33382df8a9130b67746d7a6e92f4b0ec0eb7dbd28",
+        "m16a4.png": "de5901523f23da3bdf40d580ae96eb3b3f7ae6e3d838ec2289cea863cc280048"
+      }
+    },
+    {
+      "game_weapon": "M79",
+      "key": "m79",
+      "original_title": "M79 Grenade Launcher",
+      "author": "denis1.eremin",
+      "author_url": "https://sketchfab.com/denis1.eremin",
+      "source": "https://sketchfab.com/3d-models/m79-grenade-launcher-f1309916894a45e3ae6eb24f17f728d4",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 1986,
+        "Magazine": 0,
+        "Barrel": 6465,
+        "Bolt": 0,
+        "Scope": 0
+      },
+      "sha256": {
+        "m79-icon.png": "3cb36b230e267a979a31054aec9b02f3deec6bd47910b4f0f96b578c5a29a202",
+        "m79.mtl": "b862b2c5546f980400d58a3c05a686848fa448f9e41c2263f766a45a0c02c1a6",
+        "m79.obj": "ca7168d3371a599ef910f6124e5e380befc27c7f636ec65260c9a90d063992d4",
+        "m79.png": "770af6b125fb719cc1d6ccd54c4cbd89466f9dc43c74694fe177327790632c97"
+      }
+    },
+    {
+      "game_weapon": "M200 Intervention",
+      "key": "m200",
+      "original_title": "CheyTac M200",
+      "author": "sanekcloff",
+      "author_url": "https://sketchfab.com/sanekcloff",
+      "source": "https://sketchfab.com/3d-models/cheytac-m200-6717cf22f3a347558f2cfa29fb51d861",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 13784,
+        "Magazine": 476,
+        "Barrel": 0,
+        "Bolt": 928,
+        "Scope": 6906
+      },
+      "sha256": {
+        "m200-icon.png": "901a988fa72fa79f903189e045df19859d2761e1748545cab6903945666d3757",
+        "m200.mtl": "ea53f9603b93caa7fafe4276b173808582ad75e2f51f67843b0762dbcc5cf2e8",
+        "m200.obj": "e3f54990bb4277a918b9ca382c18f2e6d2a5fe01b045aacf61371b2f2c14fa9f",
+        "m200.png": "2846488cb19b7c237fabe217b3f884933f1469a6e6ad461a74faf1decf6f1896"
+      }
+    },
+    {
+      "game_weapon": "Tundra",
+      "key": "tundra",
+      "original_title": "Accuracy International L96A1 / Arctic Warfare",
+      "author": "ruslanzod",
+      "author_url": "https://sketchfab.com/ruslanzod",
+      "source": "https://sketchfab.com/3d-models/accuracy-international-l96a1-arctic-warfare-9a7ae8a6d5164b34bf7d0e83e6721f1d",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 15226,
+        "Magazine": 680,
+        "Barrel": 0,
+        "Bolt": 746,
+        "Scope": 5216
+      },
+      "sha256": {
+        "tundra-icon.png": "46ddf407d6dd74191b4bc35c89a6e0313a45e6f9cce273a772121604592e29bb",
+        "tundra.mtl": "b74ed25cdb3db59d8d4a6ff75980970ce5fe8a246852a53f8d9aed9424c64f41",
+        "tundra.obj": "f54f029ce1a97ace29fbf0ffabd0c84194288331d2d6d60fdd9f4f5b0e815ab1",
+        "tundra.png": "5174445596697ad766d2b47d095b88871dd0c6867b4fe370085d4549346a8fc5"
+      }
+    },
+    {
+      "game_weapon": "AW50",
+      "key": "aw50",
+      "original_title": "Accuracy International AW50",
+      "author": "Irma1986",
+      "author_url": "https://sketchfab.com/ObviousMacaw1221",
+      "source": "https://sketchfab.com/3d-models/accuracy-international-aw50-d9d52051b4864d448aab907793622e5c",
+      "license": "Sketchfab Free Standard",
+      "license_url": "https://sketchfab.com/licenses",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 31973,
+        "Magazine": 3100,
+        "Barrel": 0,
+        "Bolt": 7644,
+        "Scope": 14588
+      },
+      "sha256": {
+        "aw50-icon.png": "0572b8bc635e5df069d50550068980b929adf196c839e3b1025dce907e0ee000",
+        "aw50.mtl": "37d22ad45d4a5004184bd2c3a1f3286603eb36277d15851f1cfb560b66d46e4b",
+        "aw50.obj": "c99652aeb77b6d3f13109dc158e1e70d4c3a83b0667596eff89a5878a3fd7a67",
+        "aw50.png": "4e6787bbb68f5a417584d163f434cfd011deb741360314179df1726eebbbe502"
+      }
+    },
+    {
+      "game_weapon": "SVD",
+      "key": "svd",
+      "original_title": "SVD (Dragunov) *Updated*",
+      "author": "WillyG99",
+      "author_url": "https://sketchfab.com/WillyG99",
+      "source": "https://sketchfab.com/3d-models/svd-dragunov-updated-d4a9412275aa4974b146ad8ce9dc5fc2",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 35471,
+        "Magazine": 4147,
+        "Barrel": 0,
+        "Bolt": 556,
+        "Scope": 0
+      },
+      "sha256": {
+        "svd-icon.png": "c8768bbe6f58ca4bf484560b317da94c0acbce349e6bb468e68aa59edb81ed37",
+        "svd.mtl": "7ab80a19eec52a5fd6df5f5f881078363904229936aa21f07b792abc08345705",
+        "svd.obj": "31be3432e6245442e3ea5b1f553605dde09b40134eb27eeb0da198cf44605fb4",
+        "svd.png": "cd647452f62f0be67f568e3788b3c4a2a8ee35fdf0a1565a088bd98bfddb3089"
+      }
+    },
+    {
+      "game_weapon": "MP5K",
+      "key": "mp5k",
+      "original_title": "Low-Poly HK MP5K",
+      "author": "TastyTony",
+      "author_url": "https://sketchfab.com/TastyTony",
+      "source": "https://sketchfab.com/3d-models/low-poly-hk-mp5k-091b4f73c00b4605b754f5c0b3fcdd26",
+      "license": "CC BY 4.0",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "source_format": "GLB",
+      "modifications": "Conversion OBJ triangulé ; échelle et axes FPS ; atlas des couleurs originales ; séparation des pièces pour les animations ; icône projetée.",
+      "triangles_by_part": {
+        "Body": 3379,
+        "Magazine": 1200,
+        "Barrel": 0,
+        "Bolt": 92,
+        "Scope": 0
+      },
+      "sha256": {
+        "mp5k-icon.png": "a1357798a03a116f76f8b840d37db8d6975b3cbd64c851b10b7846585e3bbe9e",
+        "mp5k.mtl": "6bf99022677109ae40066ed8d8ae6ab9ebf015d60a1cebf1974b5d07ec9cdf89",
+        "mp5k.obj": "d62320e825d5c60c8241c435de5d0cae231a75a11e62e329e75a4984df7d1b23",
+        "mp5k.png": "455f62fda273efe9d659e16b67c03c107b41d9a039f955423cdeb0e6e131c69f"
+      }
+    }
+  ],
+  "optics": "Optiques extraites des modèles Tundra/L96A1, M200 et AW50 ; supports et grossissements ajustés pour les quatre fusils à lunette."
+}

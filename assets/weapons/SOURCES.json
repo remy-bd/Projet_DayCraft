@@ -1,0 +1,25 @@
+{
+  "retrieved": "2026-10-08",
+  "author": "Quaternius",
+  "license": "CC0-1.0",
+  "ak": {
+    "page": "https://quaternius.com/packs/ultimategun.html",
+    "file": "https://drive.usercontent.google.com/download?id=1CyEzGioyY2r7SENNA5xokzeAzj67pYn_&export=download",
+    "adaptation": "Axis/scale normalization; connected magazine grouped separately."
+  },
+  "launcher": {
+    "page": "https://poly.pizza/m/GCqUvqleqN",
+    "file": "https://static.poly.pizza/4b445cbf-38b6-43f3-afd6-32d88e8f074b.glb",
+    "adaptation": "Converted GLB to triangulated OBJ/MTL; normalized FPS axes."
+  },
+  "sha256": {
+    "ak.mtl": "a4a2037eb1ca1e3047d4d510c50d36d18a9e975f24392009e2ef83019644ebb1",
+    "ak.obj": "5de2424a80848d0a15400277f01a9ad2c8b9f7ea28d13260898d06f02898e5ee",
+    "AssaultRifle_1-original.obj": "2a755393626052558165d180b04b0d39a1e3c8a3b608cfe6bf2aa832ad4c656a",
+    "AssaultRifle_1.mtl": "a4a2037eb1ca1e3047d4d510c50d36d18a9e975f24392009e2ef83019644ebb1",
+    "launcher.mtl": "f892aec4cf3974514e852c444c45df0f11ca8f5710d7717f44c86a6584a9c804",
+    "launcher.obj": "d7ed55a4da7a19d7c518c43b7c560615d2b167051de266e95a158b9948213f64",
+    "LICENSE-Quaternius.txt": "83d8959f9fc56353ed571fbe2dc52e4bcd64508e2399501cd45ac2ce3df0bf8c",
+    "RocketLauncher-original.glb": "a72bedf2d0e5da57d71af7a7aea2e97123dbbce3bf26da2b375fd0abed0142e2"
+  }
+}

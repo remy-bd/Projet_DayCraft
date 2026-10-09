@@ -1,0 +1,26 @@
+{
+  "version": "1.10.0",
+  "unit_tests": 100,
+  "clippy": "passed",
+  "binary_sha256": "c292c29a45d09a3193261829da820d4635c489d4437950fb5c27932c0fe9f747",
+  "native_scenes": 33,
+  "delivered_binary_checks": 9,
+  "requirements": [
+    "Door/chest adjacent faces preserved; opaque textures, actual native geometry probes.",
+    "All calibers shatter glass; .50/.408 break wood; first impact and other materials preserved.",
+    "Volumetric moving clouds, atmospheric sky/sun/day-night, sea shore reflections, waves and leaf wind with matching shadows.",
+    "Empty starting bag, E inventory, C creative, one personal recipe and actual used workstation gates.",
+    "Attributed immutable Minecraft community textures for blocks/workstations and six meats.",
+    "Ten tiered equipment items, lossless swaps, monotonic protection, legacy save validation.",
+    "Thrown bouncing/fused grenades, persistent remote C4, pause/boundary protection, cover damage and rendered smoke/debris/fire/audio.",
+    "Animal-specific meat drops, raw/cooked distinct sprites, eating/cooking and legacy food migration.",
+    "Native E/C/crafting/armor/catalog page/delete/last C4/grenade pause and save loops at two sizes.",
+    "Unchanged personal saves and unchanged world generation source SHA-256."
+  ],
+  "limits": [
+    "Reference-inspired custom shaders, not identical to a Minecraft shader pack; no ray tracing.",
+    "Planar terrain reflections only at sea level; other water surfaces reflect the sky.",
+    "No long manual session or second PC/GPU test; audio has no subjective listening review.",
+    "Instant cooking, no tool wear, direct creature movement and 80-block world height remain."
+  ]
+}

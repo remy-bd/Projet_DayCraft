@@ -1,0 +1,17 @@
+{
+  "version": "1.13.0",
+  "unit_tests": 117,
+  "clippy": "passed",
+  "binary_sha256": "fe025bf6e3f8667cc5cbb319817d358f98c07abc150e69a1751744cc3323c221",
+  "native_scenes": 3,
+  "world_generation": 4,
+  "map_id": "apocalypse-city-v1.32-import-1",
+  "spawns": 6,
+  "day_seconds": 672,
+  "night_seconds": 264,
+  "personal_saves_unchanged": true,
+  "state_ids_and_palettes_preserved": true,
+  "limits": [
+    "No long manual playthrough or second-PC/GPU test."
+  ]
+}

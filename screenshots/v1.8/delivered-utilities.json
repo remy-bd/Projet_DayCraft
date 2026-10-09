@@ -1,0 +1,35 @@
+{
+  "average_fps": 145.09820556640625,
+  "chests": 0,
+  "chunks": 81,
+  "crops": 0,
+  "elapsed_seconds": 1.8742852210998535,
+  "explosions": 0,
+  "flowing_cells": 0,
+  "frames": 180,
+  "gameplay_checks": "not_requested",
+  "input_checks": "not_requested",
+  "magazine": null,
+  "mobs": 10,
+  "occlusion_checks": "not_requested",
+  "player": [
+    0.5,
+    28.049999237060547,
+    0.5
+  ],
+  "reload_checks": "not_requested",
+  "reloads": 0,
+  "seed": 64195485,
+  "shader_checks": "not_requested",
+  "shaders": true,
+  "shots": 0,
+  "size": [
+    1280.0,
+    800.0
+  ],
+  "sound_checks": "passed",
+  "status": "rendered",
+  "triangles": 125098,
+  "villages": 0,
+  "weapon_checks": "not_requested"
+}

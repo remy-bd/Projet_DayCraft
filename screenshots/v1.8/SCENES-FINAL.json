@@ -1,0 +1,94 @@
+[
+  {
+    "Name": "delivered-input",
+    "Args": [
+      "--input-checks"
+    ]
+  },
+  {
+    "Name": "delivered-combat",
+    "Args": [
+      "--weapon-checks",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "delivered-reload",
+    "Args": [
+      "--reload-checks"
+    ]
+  },
+  {
+    "Name": "delivered-blocks",
+    "Args": [
+      "--inventory-tab",
+      "0"
+    ]
+  },
+  {
+    "Name": "delivered-utilities",
+    "Args": [
+      "--inventory-tab",
+      "2"
+    ]
+  },
+  {
+    "Name": "delivered-village",
+    "Args": [
+      "--screen",
+      "village",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "delivered-desert",
+    "Args": [
+      "--screen",
+      "desert"
+    ]
+  },
+  {
+    "Name": "delivered-mobs",
+    "Args": [
+      "--screen",
+      "mobs"
+    ]
+  },
+  {
+    "Name": "delivered-chest",
+    "Args": [
+      "--screen",
+      "chest"
+    ]
+  },
+  {
+    "Name": "delivered-trade",
+    "Args": [
+      "--screen",
+      "trade"
+    ]
+  },
+  {
+    "Name": "delivered-gameplay",
+    "Args": [
+      "--gameplay-checks"
+    ]
+  },
+  {
+    "Name": "delivered-small-gameplay",
+    "Args": [
+      "--gameplay-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "delivered-classic",
+    "Args": [
+      "--screen",
+      "village",
+      "--no-shaders"
+    ]
+  }
+]

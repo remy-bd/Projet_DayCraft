@@ -1,0 +1,110 @@
+[
+  {
+    "model": "akm",
+    "source": "Rifle_Assault_East",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-east",
+    "original_sha256": "a06e90734eb883640a099031dc44195330175d66bd1a03a5bf546b00e3cfacdd",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "m4a1",
+    "source": "Rifle_Assault_West",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-west",
+    "original_sha256": "ec1d3e40d33b0eadf082cd8957dfc8b7e27f35f533e2037163d80dd05221a501",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "famas",
+    "source": "Rifle_Assault_West",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-west",
+    "original_sha256": "ec1d3e40d33b0eadf082cd8957dfc8b7e27f35f533e2037163d80dd05221a501",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "m79",
+    "source": "Shotgun_Pump_East",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-east",
+    "original_sha256": "37b60a4460f978f671cea1bd76c949ec2a89638f1e6f76fc002f239b41dcef86",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "m200",
+    "source": "Sniper_Material_West",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-west",
+    "original_sha256": "654a51442fa360334cc1c512f64a822063b981185393ebbef68dc0fc09cad437",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "tundra",
+    "source": "Sniper_Rifle_West",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-west",
+    "original_sha256": "686e2ad90ca990780aafd59e044a70191b85169ef94ee223876ace32a6b4ac9c",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "aw50",
+    "source": "Sniper_Material_East",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-east",
+    "original_sha256": "f81ad77931d3f9c21115f0af6beb398c97d48c5d1e07d9c24bd78fbcf00c7126",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "svd",
+    "source": "Sniper_Rifle_East",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-east",
+    "original_sha256": "a21e0b64225375ec20cce2146e7022b4234b64ed7c4fa0d6ce7c8c9bed0e6909",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "vpo139",
+    "source": "Rifle_Battle_East",
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-guns-east",
+    "original_sha256": "a69fbaf5d8e5c3007bbda43f4087a989df5ecc58cd7a5a79302a278370b76b3a",
+    "adaptations": "Normalized, magazine separated; model-specific stock, barrel, furniture and proportions."
+  },
+  {
+    "model": "ak74",
+    "source": "AssaultRifle_1",
+    "author": "Quaternius",
+    "url": "https://quaternius.com/packs/ultimategun.html",
+    "license": "CC0-1.0",
+    "adaptations": "Original AK-74U with added stock"
+  },
+  {
+    "model": "m16a4",
+    "source": "m16.obj",
+    "author": "byzmod3d",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/ak-47-low-poly-weapon-pack-wip",
+    "original_sha256": "1edfa4c7c0b668abd556596505f7455c2187ae1e8ba351bf87bb5d82c5a3d30d",
+    "adaptations": "Normalized; flat material colours and separated magazine."
+  },
+  {
+    "models": [
+      "scope_east",
+      "scope_west",
+      "magnified_west"
+    ],
+    "author": "Pichuliru",
+    "license": "CC0-1.0",
+    "url": "https://opengameart.org/content/cc0-flat-gun-attachments"
+  }
+]

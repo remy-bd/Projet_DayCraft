@@ -1,0 +1,159 @@
+{
+  "models_repository": "22i/minecraft-voxel-blender-models",
+  "revision": "51527b4b5bceeb7a6de7e1f89edcccc87d904662",
+  "skins_repository": "maikerumine/mobs_mc",
+  "skins_revision": "c01b1c550068bfc1976adfd3d88af187d45f11b9",
+  "files": [
+    {
+      "file": "sheep.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/sheep.blend",
+      "sha256": "7d08e9f5f85b16ee08402645978656ea2ce48bdfc7d312a00de8dd680db8cddb"
+    },
+    {
+      "file": "sheep.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_sheep.png",
+      "sha256": "11acb3bbd510cae7ab8408afabbd9c86b117278e2f019e401db15bbe8986617b"
+    },
+    {
+      "file": "zombie.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/zombie.blend",
+      "sha256": "f59f065e8dee42ab2615328cc63639380feee8b71d2eb7fd7053e2643cd33c6b"
+    },
+    {
+      "file": "zombie.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_zombie.png",
+      "sha256": "cd3e17f9024c9c6bc4b27ae30c9017ca43f14f565dcd636ebb91a765a8ed7a80"
+    },
+    {
+      "file": "villager.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_villager.png",
+      "sha256": "d6150f266f85db5b253153b022eee609678c46d9e531bc1edaa9abd70b4c3e07"
+    },
+    {
+      "file": "golem.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/iron_golem.blend",
+      "sha256": "3d089e141efc382c7185194cc3f83bff3f5ebd6d6e6104ed9cc3c91bc2d3fb2d"
+    },
+    {
+      "file": "golem.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_iron_golem.png",
+      "sha256": "758d2d02eeab3611f967186bf68d51be716f9527748aeaea97dbdd1e61d5caf0"
+    },
+    {
+      "file": "creeper.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/creeper.blend",
+      "sha256": "be81cb37668e9162d69ea70d901cde908331f95dcbaac978a051c26e2d540f0c"
+    },
+    {
+      "file": "creeper.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_creeper.png",
+      "sha256": "5facf41571b76e02a03e97b56e2db29e284ca9e55b7c57c37d4cab69937bf3c1"
+    },
+    {
+      "file": "cow.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/cow%2Bmooshroom.blend",
+      "sha256": "2f0ea7b2c416cd626b3b3cbf0d31fc777cbc99e5074987af7962669e2f3a3c58"
+    },
+    {
+      "file": "cow.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_cow.png",
+      "sha256": "832bafce06a10a80bfc72c5e65fa1016bff206923bf7123b9978b0acb20b3920"
+    },
+    {
+      "file": "pig.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/pig.blend",
+      "sha256": "5525bbfd15aff91a7266b11ffe83e87669a4d5f8392346f8fc50c8e26140bd68"
+    },
+    {
+      "file": "pig.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_pig.png",
+      "sha256": "1caa936aeeb1e0c6de92f496b04b428f91168f3643564911a43bd988647aaf3c"
+    },
+    {
+      "file": "GPL-3.0.txt",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/LICENSE",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2"
+    },
+    {
+      "file": "UPSTREAM-CREDITS.md",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/LICENSE-media.md",
+      "sha256": "01d723ebd908dcf67876520cd4957025aecb2610c8e64eb4d26c134d9bb0d782"
+    },
+    {
+      "file": "sheep-fur.png",
+      "url": "https://raw.githubusercontent.com/maikerumine/mobs_mc/c01b1c550068bfc1976adfd3d88af187d45f11b9/textures/mobs_mc_sheep_fur.png",
+      "sha256": "45bdfab57a7f8cf16398f3347d747d9dd3c1dadd2dac09d6598decc9b5e1b127"
+    },
+    {
+      "file": "villager-rig.blend",
+      "url": "https://raw.githubusercontent.com/22i/minecraft-voxel-blender-models/51527b4b5bceeb7a6de7e1f89edcccc87d904662/models/vindicator%2Bevoker%2Billusioner%2Bvillager%2Bbaby.blend",
+      "sha256": "939aa0cb13c5d2c8224122a94b8cdb443e95b587c4bf77c4df8880efeb1ed3e4"
+    }
+  ],
+  "conversion": "Eight baked skeletal walk poses, Y-up, scaled and triangulated; replacement skins from mobs_mc. Sheep UVs correct the 3-pixel gutter and select the upper 32-pixel variant. GPL-3.0 Blender sources retained.",
+  "adapted_files": {
+    "cow-0.obj": "9daf6da3072a9c9d304bb7b0a94c75302dea570cc9146648c44c867ad3ae94ef",
+    "cow-1.obj": "b7b359bf0afc346fd45f2271484b7f15984db6ba4f719310ac3f6d6e14c5c6d4",
+    "cow-2.obj": "a4a3e91ab105c0bf06fb18c6f0987b7ba9e7a783bdda3b43af26ed4c86c80e33",
+    "cow-3.obj": "81513904f84b650d781f3b682fb9301319b5b2e4c1a72bf1c2170da2c198c430",
+    "cow-4.obj": "9daf6da3072a9c9d304bb7b0a94c75302dea570cc9146648c44c867ad3ae94ef",
+    "cow-5.obj": "3e994986b4fffe12904465022fd844801b99631d3675f765327fb88c13a74860",
+    "cow-6.obj": "4002a33e691b1d92492e8f1d341060ae21c9a5969fc4410222729e9b9db95abc",
+    "cow-7.obj": "a195a4d4a71ef27a26ae2d3e5edf69a1e05c9d0b9dbcb22b0bf7588c42901060",
+    "creeper-0.obj": "c4f492d61067dfa25994120abd0c3e3beea161a2b7ccccc849db315592b01b05",
+    "creeper-1.obj": "96539d438b36bc0da4143563d42e6e9afdcbaa4753dce8e7a312df9845bc7704",
+    "creeper-2.obj": "e4b5e56fc65a2e9b4e5bf5f51c10859f8ab0dc91f586779b4510df3abdf7cb2f",
+    "creeper-3.obj": "b7b203e4220cfb00f869c1897d527bc964629cb5445d0eb0905e3aa0f7a90f32",
+    "creeper-4.obj": "c4f492d61067dfa25994120abd0c3e3beea161a2b7ccccc849db315592b01b05",
+    "creeper-5.obj": "7f707845810cfc242401f3905bc7445c9a703845785f505e70dffc328bf651b3",
+    "creeper-6.obj": "3dc7ac587f644c325e2cecd859ae12ce91a07f716911aef509ceae85ad0f8c75",
+    "creeper-7.obj": "86f5429e999e135d8f711126035d0865c90a3e9b9db38e59b942ac775864778e",
+    "golem-0.obj": "c18f11f38c1a9a7dce70a6525d0024704ec8965f6b51d9149832d72084a826b3",
+    "golem-1.obj": "2781b597d8223ee98dd5a717c1241bf25e9a552290522e9b06e5729311a9fe9b",
+    "golem-2.obj": "de780880d8330d450e5747061680a95196e3239ba7c06dd5a1cb05dc2c4a23b3",
+    "golem-3.obj": "6e809ab06770029bc741f1e733e2006815f968996a9cb8d844f2439c37acb406",
+    "golem-4.obj": "c18f11f38c1a9a7dce70a6525d0024704ec8965f6b51d9149832d72084a826b3",
+    "golem-5.obj": "f97a1a690ddf562ca54bdcfee29225e648e239c111fbb54156f400bde313852d",
+    "golem-6.obj": "1a72c1d9f101b451da738b70c711d72737c0846798297853c0511edfe1938c05",
+    "golem-7.obj": "79cf6c07db8b715b54556198f0570349af5879790002614d15dc5b6c016ef7b4",
+    "pig-0.obj": "f21f81b8bd253ae5eca5722b83d0f13195d634bd44300c2ba2476f2f7b134bd0",
+    "pig-1.obj": "72a10ded181c98219b0bf79881aa6714d6b15994f7ea280ae5ff2544092f970c",
+    "pig-2.obj": "33f7b0e1311b0e389c58f5972a3b1a3a25b8a55abcd430fc3488d775363cefa5",
+    "pig-3.obj": "8a3a54e12c0217c026ea3c53728bbb2a0fbb657e24e250503c1022851929cf3f",
+    "pig-4.obj": "f21f81b8bd253ae5eca5722b83d0f13195d634bd44300c2ba2476f2f7b134bd0",
+    "pig-5.obj": "dd9d75bc7b3e8c948847aa704a64a4ab3d9b531dbaf5069c4f7eda96ea450600",
+    "pig-6.obj": "b805ab1787c3e57185c418014fe7465d063d9d863029dd436e0a36834a837d76",
+    "pig-7.obj": "85cf38b2d82f9ef4a6fea71e6365adb18e31a9d284afeff1928c2f5bd352523f",
+    "sheep-0.obj": "24ed93692dc7f6f02874d09a5a32ec6352ac3fd7b080cfddcd30a35281cc72cb",
+    "sheep-1.obj": "55b34bbad94e780ad9647dc7b5b303fdd22590d23bcad976f1baa7a10e9f2343",
+    "sheep-2.obj": "fcf118daf7e3fc4478386c3ff200d08ee72b650221a85820b59b2545f0ec6352",
+    "sheep-3.obj": "f0ea7713b372242f07baa0e73ac6d3336cd1eb07663c966a00c60b30da1d6fb4",
+    "sheep-4.obj": "24ed93692dc7f6f02874d09a5a32ec6352ac3fd7b080cfddcd30a35281cc72cb",
+    "sheep-5.obj": "4adf39cf430f300015f24ee241dc25ff3b6a5cdae6b021e9f11c3a4ef631458b",
+    "sheep-6.obj": "0bf282aab7b9aea6e5aa44f908bb77ed9e68ed7a5effdbda44e44833555885cf",
+    "sheep-7.obj": "19b5f6f19502529b8340d7e12546ed3838829fce29e7f5e79f44a298f552d35f",
+    "villager-0.obj": "bb3081b57524b3285758d553dc32a72bb606a304423cff12476fc28f599b4bcb",
+    "villager-1.obj": "6b3b3b599fdcdd4acfa6debf124a50ec8361880cfb9936662e7e7a8f6f62a6c5",
+    "villager-2.obj": "b557401ce1dad1c0d27658e67dfacb1e8da412c705069c6ef295f5e48f1ab803",
+    "villager-3.obj": "28c2c48ea710d65b4d29a5558784bece4a7704f91a7553a623c11a3f5013f567",
+    "villager-4.obj": "bb3081b57524b3285758d553dc32a72bb606a304423cff12476fc28f599b4bcb",
+    "villager-5.obj": "b67a193f15dffe2513ae48a82d225cafdab7b7fee13708562a80253e8ca52cac",
+    "villager-6.obj": "18ebdf49f29bbd777174fd909e403259f8f42ccfcc674b88644172e15cba5f5a",
+    "villager-7.obj": "7768c4a9db1412e27307435657c756e47599b95bd3bc9684f4fcbcaffd727e02",
+    "zombie-0.obj": "98243a5fef3ba0cf0f50d9e1040dd9dbab54a8704260bd01c1a9baaba80e5aa8",
+    "zombie-1.obj": "5e1d261cc0a15406ecaeec447fe8a14a54532f7c10cca105fb8877b4ce7b20c2",
+    "zombie-2.obj": "4264b739b484fce8b8716e9bb2f03adf10b43f7c4657c8be250bdbba90a9f3fd",
+    "zombie-3.obj": "14cc319bfb52ed7ee8388dcb2bd268e8aeac2b28727dba24fabd724375fc2b59",
+    "zombie-4.obj": "f494cf86ecc3b8ce9b8909793b9110e2a47d075871b9f8fd8b4b13ce3f041e39",
+    "zombie-5.obj": "03aa07b46c5b093c1797ec24bafc1db6fa35752ab1da9c2191f468dc7274897a",
+    "zombie-6.obj": "4995aa576477bb6eca40a9cf7097a7e0ddfa535066d9527f3ada333dd3d631f4",
+    "zombie-7.obj": "eeb560c54d40bb68095bd6f0e16a7deb5dd8848bc6a34ce03751652bc93c3193",
+    "cow-atlas.png": "a21628d5374289fb61fb86fda5f46870ec40540f33ca5d92e1d5fdaa53dd2205",
+    "creeper-atlas.png": "a952c67c3ec0ee724f622e96a512958c1a75974022e7e26b6c0ba35d54e26168",
+    "golem-atlas.png": "88623198e6b9f489c2313dc9905bf3f1e1575aebadad3b127f3e231271f4bb92",
+    "pig-atlas.png": "b3d24f7f6e3738293ac8b006bcee8155782ef82ab05630fd643194f2fd427a40",
+    "sheep-atlas.png": "ef131595a8ec019214063a31eda195fe7456a4ae102b78f1df6e1f72dc90735a",
+    "villager-atlas.png": "dcfb3b6f4759579a90b0527ad47025861e4ab4eb75417a6998ea83f42c686b5e",
+    "zombie-atlas.png": "85730c7829b7b2c29f757146535fc4bed95b5db466e6c8f62453b41caa3ee3b3"
+  }
+}

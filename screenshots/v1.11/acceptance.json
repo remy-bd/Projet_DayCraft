@@ -1,0 +1,28 @@
+{
+  "version": "1.11.0",
+  "unit_tests": 105,
+  "clippy": "passed",
+  "binary_sha256": "9129e23d9bfcec3f2e082877b198b14cb7c8a8fbd5315fe15acbc76934a8d396",
+  "native_scenes": 10,
+  "delivered_binary_checks": 4,
+  "world_generation": 3,
+  "density_sample": {
+    "new": 21,
+    "previous": 311
+  },
+  "min_center_separation_blocks": 385,
+  "personal_saves_unchanged": true,
+  "requirements": [
+    "Sparse deterministic plains/desert villages, varied local building floors.",
+    "Untouched unoccupied surface/vegetation and underground strata; local foundations only.",
+    "Street/door transitions, sealed irrigation, chests/residents/golems on actual surfaces.",
+    "Matching cached and uncached chunks, negative coordinates and saved edits.",
+    "Generation 1/2 saves preserved; generation 3 roundtrip; unknown generations rejected.",
+    "Hand grenade kills exposed villager at 3m, wounds at 5m and does not damage at 7m.",
+    "Walls, armor, creative immunity, crater radius and M79/C4 profiles preserved."
+  ],
+  "limits": [
+    "A new world is required for terrain-adapted villages; existing worlds stay intact.",
+    "No long manual session or second-PC/GPU test."
+  ]
+}

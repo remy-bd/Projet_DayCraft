@@ -1,0 +1,10 @@
+{
+  "chunks": 69344,
+  "regions": 91,
+  "voxel_cells_checked": 2149268992,
+  "highest_chunk_height": 379,
+  "states_used": 2129,
+  "source_sha256": "384d0433fccbf92088aee84031c77aad9e32563ca0f0dae2ed8b833c2ed6d0f2",
+  "data_sha256": "881a6afd20d4a74420ba0fc1b5eefd33b9305f7060ffa3adaad7b2d8b437b75c",
+  "status": "all_crc_palette_bounds_passed"
+}

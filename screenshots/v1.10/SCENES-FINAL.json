@@ -1,0 +1,70 @@
+[
+  {
+    "Args": [
+      "--screen",
+      "sunset",
+      "--shader-checks",
+      "--occlusion-checks"
+    ],
+    "Name": "delivered-sunset"
+  },
+  {
+    "Args": [
+      "--v110-checks"
+    ],
+    "Name": "delivered-v110"
+  },
+  {
+    "Args": [
+      "--v110-checks",
+      "--size",
+      "960x600"
+    ],
+    "Name": "delivered-v110-small"
+  },
+  {
+    "Args": [
+      "--input-checks",
+      "--size",
+      "960x600"
+    ],
+    "Name": "delivered-input-small"
+  },
+  {
+    "Args": [
+      "--gameplay-checks"
+    ],
+    "Name": "delivered-gameplay"
+  },
+  {
+    "Args": [
+      "--screen",
+      "fluids",
+      "--occlusion-checks"
+    ],
+    "Name": "delivered-fluids"
+  },
+  {
+    "Args": [
+      "--screen",
+      "grenade"
+    ],
+    "Name": "delivered-grenade"
+  },
+  {
+    "Args": [
+      "--screen",
+      "c4"
+    ],
+    "Name": "delivered-c4"
+  },
+  {
+    "Args": [
+      "--inventory-tab",
+      "3",
+      "--inventory-page",
+      "1"
+    ],
+    "Name": "delivered-armor-page"
+  }
+]

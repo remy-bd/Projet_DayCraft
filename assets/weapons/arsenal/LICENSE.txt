@@ -1,0 +1,3 @@
+All downloaded models: CC0 1.0 Universal. https://creativecommons.org/publicdomain/zero/1.0/
+Authors: Pichuliru, Quaternius and byzmod3d. Sources and original SHA-256: SOURCES.json.
+Models are stylized adaptations for this voxel game, not exact replicas. Rigging, animated groups, furniture and materials adapted locally.

@@ -1,0 +1,528 @@
+[
+  {
+    "Name": "input",
+    "Args": [
+      "--input-checks"
+    ]
+  },
+  {
+    "Name": "combat",
+    "Args": [
+      "--weapon-checks",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "reload",
+    "Args": [
+      "--reload-checks"
+    ]
+  },
+  {
+    "Name": "blocks",
+    "Args": [
+      "--inventory-tab",
+      "0"
+    ]
+  },
+  {
+    "Name": "food",
+    "Args": [
+      "--inventory-tab",
+      "1"
+    ]
+  },
+  {
+    "Name": "utilities",
+    "Args": [
+      "--inventory-tab",
+      "2"
+    ]
+  },
+  {
+    "Name": "arms",
+    "Args": [
+      "--inventory-tab",
+      "3",
+      "--hover",
+      "562,219"
+    ]
+  },
+  {
+    "Name": "drops",
+    "Args": [
+      "--drops"
+    ]
+  },
+  {
+    "Name": "fluids",
+    "Args": [
+      "--screen",
+      "fluids",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "farm",
+    "Args": [
+      "--screen",
+      "farm",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "classic",
+    "Args": [
+      "--screen",
+      "farm",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "night",
+    "Args": [
+      "--screen",
+      "night"
+    ]
+  },
+  {
+    "Name": "controls",
+    "Args": [
+      "--screen",
+      "controls"
+    ]
+  },
+  {
+    "Name": "title",
+    "Args": [
+      "--screen",
+      "title"
+    ]
+  },
+  {
+    "Name": "village",
+    "Args": [
+      "--screen",
+      "village",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "desert",
+    "Args": [
+      "--screen",
+      "desert"
+    ]
+  },
+  {
+    "Name": "mobs",
+    "Args": [
+      "--screen",
+      "mobs"
+    ]
+  },
+  {
+    "Name": "chest",
+    "Args": [
+      "--screen",
+      "chest"
+    ]
+  },
+  {
+    "Name": "trade",
+    "Args": [
+      "--screen",
+      "trade"
+    ]
+  },
+  {
+    "Name": "gameplay",
+    "Args": [
+      "--gameplay-checks"
+    ]
+  },
+  {
+    "Name": "small-gameplay",
+    "Args": [
+      "--gameplay-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "classic-village",
+    "Args": [
+      "--screen",
+      "village",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "gun-0",
+    "Args": [
+      "--gun",
+      "0"
+    ]
+  },
+  {
+    "Name": "gun-0-reload",
+    "Args": [
+      "--gun",
+      "0",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-1",
+    "Args": [
+      "--gun",
+      "1"
+    ]
+  },
+  {
+    "Name": "gun-1-reload",
+    "Args": [
+      "--gun",
+      "1",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-2",
+    "Args": [
+      "--gun",
+      "2"
+    ]
+  },
+  {
+    "Name": "gun-2-reload",
+    "Args": [
+      "--gun",
+      "2",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-3",
+    "Args": [
+      "--gun",
+      "3"
+    ]
+  },
+  {
+    "Name": "gun-3-reload",
+    "Args": [
+      "--gun",
+      "3",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-4",
+    "Args": [
+      "--gun",
+      "4"
+    ]
+  },
+  {
+    "Name": "gun-4-reload",
+    "Args": [
+      "--gun",
+      "4",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-5",
+    "Args": [
+      "--gun",
+      "5"
+    ]
+  },
+  {
+    "Name": "gun-5-reload",
+    "Args": [
+      "--gun",
+      "5",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-6",
+    "Args": [
+      "--gun",
+      "6"
+    ]
+  },
+  {
+    "Name": "gun-6-reload",
+    "Args": [
+      "--gun",
+      "6",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-7",
+    "Args": [
+      "--gun",
+      "7"
+    ]
+  },
+  {
+    "Name": "gun-7-reload",
+    "Args": [
+      "--gun",
+      "7",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-8",
+    "Args": [
+      "--gun",
+      "8"
+    ]
+  },
+  {
+    "Name": "gun-8-reload",
+    "Args": [
+      "--gun",
+      "8",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-9",
+    "Args": [
+      "--gun",
+      "9"
+    ]
+  },
+  {
+    "Name": "gun-9-reload",
+    "Args": [
+      "--gun",
+      "9",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-10",
+    "Args": [
+      "--gun",
+      "10"
+    ]
+  },
+  {
+    "Name": "gun-10-reload",
+    "Args": [
+      "--gun",
+      "10",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "gun-11",
+    "Args": [
+      "--gun",
+      "11"
+    ]
+  },
+  {
+    "Name": "gun-11-reload",
+    "Args": [
+      "--gun",
+      "11",
+      "--reload-pose"
+    ]
+  },
+  {
+    "Name": "ads-0",
+    "Args": [
+      "--gun",
+      "0",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-1",
+    "Args": [
+      "--gun",
+      "1",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-2",
+    "Args": [
+      "--gun",
+      "2",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-3",
+    "Args": [
+      "--gun",
+      "3",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-4",
+    "Args": [
+      "--gun",
+      "4",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-5",
+    "Args": [
+      "--gun",
+      "5",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-6",
+    "Args": [
+      "--gun",
+      "6",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "ads-11",
+    "Args": [
+      "--gun",
+      "11",
+      "--aim"
+    ]
+  },
+  {
+    "Name": "scope-0",
+    "Args": [
+      "--gun",
+      "7",
+      "--aim",
+      "--optic",
+      "0"
+    ]
+  },
+  {
+    "Name": "scope-1",
+    "Args": [
+      "--gun",
+      "7",
+      "--aim",
+      "--optic",
+      "1"
+    ]
+  },
+  {
+    "Name": "scope-2",
+    "Args": [
+      "--gun",
+      "7",
+      "--aim",
+      "--optic",
+      "2"
+    ]
+  },
+  {
+    "Name": "m79-phase-1",
+    "Args": [
+      "--gun",
+      "6",
+      "--reload-pose",
+      "--reload-progress",
+      "0.2"
+    ]
+  },
+  {
+    "Name": "m79-phase-2",
+    "Args": [
+      "--gun",
+      "6",
+      "--reload-pose",
+      "--reload-progress",
+      "0.4"
+    ]
+  },
+  {
+    "Name": "m79-phase-3",
+    "Args": [
+      "--gun",
+      "6",
+      "--reload-pose",
+      "--reload-progress",
+      "0.6"
+    ]
+  },
+  {
+    "Name": "m79-phase-4",
+    "Args": [
+      "--gun",
+      "6",
+      "--reload-pose",
+      "--reload-progress",
+      "0.8"
+    ]
+  },
+  {
+    "Name": "bolt-7",
+    "Args": [
+      "--gun",
+      "7",
+      "--bolt-pose"
+    ]
+  },
+  {
+    "Name": "bolt-8",
+    "Args": [
+      "--gun",
+      "8",
+      "--bolt-pose"
+    ]
+  },
+  {
+    "Name": "bolt-9",
+    "Args": [
+      "--gun",
+      "9",
+      "--bolt-pose"
+    ]
+  },
+  {
+    "Name": "small-input",
+    "Args": [
+      "--input-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "small-combat",
+    "Args": [
+      "--weapon-checks",
+      "--size",
+      "960x600",
+      "--shader-checks",
+      "--occlusion-checks"
+    ]
+  },
+  {
+    "Name": "classic-gun",
+    "Args": [
+      "--gun",
+      "3",
+      "--no-shaders",
+      "--occlusion-checks"
+    ]
+  }
+]

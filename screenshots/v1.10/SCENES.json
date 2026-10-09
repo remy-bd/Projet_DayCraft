@@ -1,0 +1,242 @@
+[
+  {
+    "Name": "sunset",
+    "Args": [
+      "--screen",
+      "sunset",
+      "--shader-checks",
+      "--occlusion-checks"
+    ]
+  },
+  {
+    "Name": "shore",
+    "Args": [
+      "--screen",
+      "shore"
+    ]
+  },
+  {
+    "Name": "shore-night",
+    "Args": [
+      "--screen",
+      "shore-night"
+    ]
+  },
+  {
+    "Name": "v110",
+    "Args": [
+      "--v110-checks"
+    ]
+  },
+  {
+    "Name": "v110-small",
+    "Args": [
+      "--v110-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "input",
+    "Args": [
+      "--input-checks"
+    ]
+  },
+  {
+    "Name": "input-small",
+    "Args": [
+      "--input-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "gameplay",
+    "Args": [
+      "--gameplay-checks"
+    ]
+  },
+  {
+    "Name": "gameplay-small",
+    "Args": [
+      "--gameplay-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "combat",
+    "Args": [
+      "--weapon-checks",
+      "--occlusion-checks"
+    ]
+  },
+  {
+    "Name": "reload",
+    "Args": [
+      "--reload-checks"
+    ]
+  },
+  {
+    "Name": "fluids",
+    "Args": [
+      "--screen",
+      "fluids",
+      "--occlusion-checks"
+    ]
+  },
+  {
+    "Name": "village",
+    "Args": [
+      "--screen",
+      "village"
+    ]
+  },
+  {
+    "Name": "desert",
+    "Args": [
+      "--screen",
+      "desert"
+    ]
+  },
+  {
+    "Name": "npc-defense",
+    "Args": [
+      "--npc-checks"
+    ]
+  },
+  {
+    "Name": "mobs",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks"
+    ]
+  },
+  {
+    "Name": "stations",
+    "Args": [
+      "--screen",
+      "stations"
+    ]
+  },
+  {
+    "Name": "grenade",
+    "Args": [
+      "--screen",
+      "grenade"
+    ]
+  },
+  {
+    "Name": "c4",
+    "Args": [
+      "--screen",
+      "c4"
+    ]
+  },
+  {
+    "Name": "crafting",
+    "Args": [
+      "--screen",
+      "crafting"
+    ]
+  },
+  {
+    "Name": "armor",
+    "Args": [
+      "--screen",
+      "armor"
+    ]
+  },
+  {
+    "Name": "inventory",
+    "Args": [
+      "--screen",
+      "inventory"
+    ]
+  },
+  {
+    "Name": "blocks",
+    "Args": [
+      "--inventory-tab",
+      "0"
+    ]
+  },
+  {
+    "Name": "food",
+    "Args": [
+      "--inventory-tab",
+      "1"
+    ]
+  },
+  {
+    "Name": "utilities",
+    "Args": [
+      "--inventory-tab",
+      "2"
+    ]
+  },
+  {
+    "Name": "arms",
+    "Args": [
+      "--inventory-tab",
+      "3"
+    ]
+  },
+  {
+    "Name": "armor-page",
+    "Args": [
+      "--inventory-tab",
+      "3",
+      "--inventory-page",
+      "1"
+    ]
+  },
+  {
+    "Name": "controls",
+    "Args": [
+      "--screen",
+      "controls"
+    ]
+  },
+  {
+    "Name": "chest",
+    "Args": [
+      "--screen",
+      "chest"
+    ]
+  },
+  {
+    "Name": "trade",
+    "Args": [
+      "--screen",
+      "trade"
+    ]
+  },
+  {
+    "Name": "classic-stations",
+    "Args": [
+      "--screen",
+      "stations",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "classic-village",
+    "Args": [
+      "--screen",
+      "village",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "m200",
+    "Args": [
+      "--gun",
+      "7",
+      "--aim",
+      "--optic",
+      "1"
+    ]
+  }
+]

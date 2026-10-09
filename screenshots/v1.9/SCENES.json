@@ -1,0 +1,195 @@
+[
+  {
+    "Name": "mobs",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks"
+    ]
+  },
+  {
+    "Name": "mobs-small",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "village",
+    "Args": [
+      "--screen",
+      "village",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "desert",
+    "Args": [
+      "--screen",
+      "desert"
+    ]
+  },
+  {
+    "Name": "church",
+    "Args": [
+      "--screen",
+      "church"
+    ]
+  },
+  {
+    "Name": "forge",
+    "Args": [
+      "--screen",
+      "forge"
+    ]
+  },
+  {
+    "Name": "inn",
+    "Args": [
+      "--screen",
+      "inn"
+    ]
+  },
+  {
+    "Name": "mountain",
+    "Args": [
+      "--screen",
+      "mountain"
+    ]
+  },
+  {
+    "Name": "cave",
+    "Args": [
+      "--screen",
+      "cave"
+    ]
+  },
+  {
+    "Name": "npc-defense",
+    "Args": [
+      "--npc-checks"
+    ]
+  },
+  {
+    "Name": "gameplay",
+    "Args": [
+      "--gameplay-checks"
+    ]
+  },
+  {
+    "Name": "gameplay-small",
+    "Args": [
+      "--gameplay-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "input",
+    "Args": [
+      "--input-checks"
+    ]
+  },
+  {
+    "Name": "input-small",
+    "Args": [
+      "--input-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "combat",
+    "Args": [
+      "--weapon-checks",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "reload",
+    "Args": [
+      "--reload-checks"
+    ]
+  },
+  {
+    "Name": "fluids",
+    "Args": [
+      "--screen",
+      "fluids",
+      "--occlusion-checks"
+    ]
+  },
+  {
+    "Name": "blocks",
+    "Args": [
+      "--inventory-tab",
+      "0"
+    ]
+  },
+  {
+    "Name": "food",
+    "Args": [
+      "--inventory-tab",
+      "1"
+    ]
+  },
+  {
+    "Name": "utilities",
+    "Args": [
+      "--inventory-tab",
+      "2"
+    ]
+  },
+  {
+    "Name": "arms",
+    "Args": [
+      "--inventory-tab",
+      "3"
+    ]
+  },
+  {
+    "Name": "chest",
+    "Args": [
+      "--screen",
+      "chest"
+    ]
+  },
+  {
+    "Name": "trade",
+    "Args": [
+      "--screen",
+      "trade"
+    ]
+  },
+  {
+    "Name": "classic-village",
+    "Args": [
+      "--screen",
+      "village",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "classic-mobs",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks",
+      "--no-shaders"
+    ]
+  },
+  {
+    "Name": "m200",
+    "Args": [
+      "--gun",
+      "7",
+      "--aim",
+      "--optic",
+      "1"
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "version": "1.9.0",
+  "binary_sha256": "3c5522a99b3638987630228ff5d5fa3e113d43d6367fad57a287b1cc46e6617e",
+  "unit_tests": 84,
+  "clippy": "passed",
+  "render_scenes": 26,
+  "delivered_binary_checks": 9,
+  "requirements": [
+    {
+      "name": "Opaque sheep core across eight poses and four GPU view angles (288 pixel probes)",
+      "status": "passed"
+    },
+    {
+      "name": "48 distinct stereo sounds, loud sniper attacks, 3.9 to 7.6 second sniper tails",
+      "status": "passed"
+    },
+    {
+      "name": "Thirty overlapping shots per weapon stay below clipping at playback gain",
+      "status": "passed"
+    },
+    {
+      "name": "105 by 105 block villages, 14 varied buildings, 14 residents, 2 golems, 14 loot chests",
+      "status": "passed"
+    },
+    {
+      "name": "Wide temperature and moisture regions; desert altitude does not create snow",
+      "status": "passed"
+    },
+    {
+      "name": "Rocky mountains and physically walkable cave descents across loaded chunk borders",
+      "status": "passed"
+    },
+    {
+      "name": "Zombies catch and hurt villagers; golems catch and kill zombies in an actual town",
+      "status": "passed"
+    },
+    {
+      "name": "Village-near new world spawn across 32 seeds; nearby village bearing and distance",
+      "status": "passed"
+    },
+    {
+      "name": "Old generation functions match prior source; old saves retain generation and edits",
+      "status": "passed"
+    },
+    {
+      "name": "Menus, inventory, storage, input, fluids, shaders, depth, weapons and reload regressions",
+      "status": "passed"
+    },
+    {
+      "name": "Personal save files unchanged SHA-256",
+      "status": "passed"
+    }
+  ],
+  "limits": [
+    "New terrain and larger villages require a new world; old world generation is retained",
+    "No subjective listening test, long manual play session, or other GPU verification",
+    "Simple direct mob movement; instant furnace recipes and no tool durability"
+  ]
+}

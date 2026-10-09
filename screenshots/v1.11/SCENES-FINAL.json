@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "delivered-village",
+    "Args": [
+      "--screen",
+      "village"
+    ]
+  },
+  {
+    "Name": "delivered-desert",
+    "Args": [
+      "--screen",
+      "desert"
+    ]
+  },
+  {
+    "Name": "delivered-grenade-villagers",
+    "Args": [
+      "--grenade-checks"
+    ]
+  },
+  {
+    "Name": "delivered-v110",
+    "Args": [
+      "--v110-checks"
+    ]
+  }
+]

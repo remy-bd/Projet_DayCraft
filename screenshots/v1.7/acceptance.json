@@ -1,0 +1,74 @@
+{
+  "version": "1.7.0",
+  "executable_sha256": "4e9a3114a03965d07e95115cad836f9b4e6907b914f38d2851311007b6c75fde",
+  "unit_tests": 68,
+  "render_scenes": 59,
+  "requirements": [
+    {
+      "request": "Tirs face aux mires et armes droites",
+      "status": "passed",
+      "evidence": [
+        "ads-0.png",
+        "ads-1.png",
+        "ads-2.png",
+        "ads-3.png",
+        "ads-4.png",
+        "ads-5.png",
+        "ads-11.png",
+        "combat.json"
+      ],
+      "tests": [
+        "shouldered_sights_stay_on_the_camera_axis_and_stocks_are_behind_the_eye",
+        "muzzle_uses_the_same_screen_projection_in_both_cameras",
+        "muzzle_rays_converge_on_sights_and_never_skip_near_walls_or_targets"
+      ]
+    },
+    {
+      "request": "Épauler sans voir le dos de la crosse",
+      "status": "passed",
+      "evidence": [
+        "ads-0.png",
+        "ads-1.png",
+        "ads-3.png",
+        "ads-6.png",
+        "scope-0.png"
+      ],
+      "test": "shouldered_sights_stay_on_the_camera_axis_and_stocks_are_behind_the_eye"
+    },
+    {
+      "request": "Portée M79 accrue",
+      "status": "passed",
+      "evidence": [
+        "combat.json",
+        "small-combat.json"
+      ],
+      "test": "m79_reaches_a_distant_wall_without_tunnelling",
+      "distant_target_blocks": 80
+    },
+    {
+      "request": "VPO remplacé par un vrai modèle MP5K 9x19mm",
+      "status": "passed",
+      "evidence": [
+        "gun-11.png",
+        "gun-11-reload.png",
+        "ads-11.png",
+        "arms.png"
+      ],
+      "source": "https://sketchfab.com/3d-models/low-poly-hk-mp5k-091b4f73c00b4605b754f5c0b3fcdd26",
+      "tests": [
+        "arsenal_calibers_and_modes",
+        "new_games_are_empty_and_arsenal_drops_survive_save_and_legacy_loading"
+      ]
+    },
+    {
+      "request": "Verrou sniper et main du même côté droit",
+      "status": "passed",
+      "evidence": [
+        "bolt-7.png",
+        "bolt-8.png",
+        "bolt-9.png"
+      ],
+      "test": "sniper_bolts_and_operating_hand_share_the_right_side"
+    }
+  ]
+}

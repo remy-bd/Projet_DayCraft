@@ -1,0 +1,68 @@
+[
+  {
+    "Name": "delivered-church",
+    "Args": [
+      "--screen",
+      "church"
+    ]
+  },
+  {
+    "Name": "delivered-cave",
+    "Args": [
+      "--screen",
+      "cave"
+    ]
+  },
+  {
+    "Name": "delivered-village",
+    "Args": [
+      "--screen",
+      "village",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "delivered-mobs",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks"
+    ]
+  },
+  {
+    "Name": "delivered-mobs-small",
+    "Args": [
+      "--screen",
+      "mobs",
+      "--mob-checks",
+      "--size",
+      "960x600"
+    ]
+  },
+  {
+    "Name": "delivered-npc",
+    "Args": [
+      "--npc-checks"
+    ]
+  },
+  {
+    "Name": "delivered-combat",
+    "Args": [
+      "--weapon-checks",
+      "--occlusion-checks",
+      "--shader-checks"
+    ]
+  },
+  {
+    "Name": "delivered-gameplay",
+    "Args": [
+      "--gameplay-checks"
+    ]
+  },
+  {
+    "Name": "delivered-reload",
+    "Args": [
+      "--reload-checks"
+    ]
+  }
+]
